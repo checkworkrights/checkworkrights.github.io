@@ -77,24 +77,12 @@ $('a[href*="#"]')
   });       
 
 //stop video
-// jQuery selector to get an element
-var query = $('#videoModal');
- 
-// check if element is Visible
-var isVisible = query.is(':visible');
- 
-if (isVisible === true) {
-   // element is Visible
-} else {
- $('#CWRvideo').get(0).pause()
-}
-
-$('#myModal').on('hidden.bs.modal', function () {
+$('#VideoModal').on('hidden.bs.modal', function () {
     player.stopVideo();
    // or jQuery
-   $('#playerID').get(0).stopVideo();
+   $('#CWRvideo').get(0).stopVideo();
    // or remove video url
-   $('playerID').attr('src', '');
+   $('CWRvideo').attr('src', '');
 })
 
 // Place any jQuery/helper plugins in here.
