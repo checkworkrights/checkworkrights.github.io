@@ -78,8 +78,6 @@ $('a[href*="#"]')
 
 //stop video
 $('#videoModal').on('hidden.bs.modal', function () {
-   // or jQuery
-   $('#CWRvideo').get(0).stopVideo();
    // or remove video url
    $('CWRvideo').attr('src', '');
 })
