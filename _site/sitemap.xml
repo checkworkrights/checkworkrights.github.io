@@ -10,6 +10,13 @@
     </url>
     
     <url>
+        <loc>/support/</loc>
+        <lastmod>2018-07-24</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
         <loc>/</loc>
         <lastmod>2018-07-24</lastmod>
         <changefreq>daily</changefreq>
