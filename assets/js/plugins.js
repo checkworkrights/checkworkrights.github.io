@@ -86,7 +86,7 @@ var isVisible = query.is(':visible');
 if (isVisible === true) {
    // element is Visible
 } else {
- $('#html5_video_k3ct9w5ueut').get(0).pause()
+ $('#html5_video_k3ct9w5ueut').get(0).stopVideo()
 }
 // Place any jQuery/helper plugins in here.
 /* Lazy Load XT 1.1.0 | MIT License */
