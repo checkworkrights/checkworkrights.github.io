@@ -14,7 +14,7 @@
   <link rel="stylesheet" href="{{ "/assets/css/bootstrap.css" | relative_url }}">
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
   <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>    
-  <script src="/assets/js/bootstrap.min.js"></script>
+  <script src="{{ "/assets/js/bootstrap.min.js" | relative_url }}"></script>
   <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js" integrity="sha384-xymdQtn1n3lH2wcu0qhcdaOpQwyoarkgLVxC/wZ5q7h9gHtxICrpcaSUfygqZGOe" crossorigin="anonymous"></script>
 <!--Tags-->
 <meta name="google-site-verification" content="N3FFer-3_ON0X067F7r8hmlCp5LhiMSNEtJQR0-mBdg" />    
@@ -75,7 +75,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="row">
     <div class="col-12 col-lg-3"><img style="margin-bottom:20px;" src="/assets/img/Block-Logo_CheckWorkRightscopy-01.svg" height="30px"  alt="Checkworkrights Logo"><a href="/policies"><h3>Legal Information</h3></a></div>
         <div class="col-12 col-lg-3"><h3>Get in Contact</h3><ul><li><a href="#">Email</a></li><li>Call (03) 9421 1020</li><li>About</li><li>Support</li></ul></div>
-    <div class="col-12 col-lg-3"><h3>Visa Resources</h3><ul><a href="http://localhost:4000/resources/recent-changes"><li>Recent Changes in Visa Sponsorship Legislation</li></a></ul></div>
+    <div class="col-12 col-lg-3"><h3>Visa Resources</h3><ul><a href="/resources/recent-changes"><li>Recent Changes in Visa Sponsorship Legislation</li></a></ul></div>
     <div class="col-12 col-lg-3"><h3>Partners</h3>
         <ul>
         <a href="https://www.tssimmigration.com.au/"><li><span class="text-red">TSS Immigration</span><br/>Immigration advice and processing</li></a>
@@ -84,8 +84,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
 </footer>
     <a class="btn-demo" href="https://calendly.com/checkworkrights/demo">Request a Demo</a>
-  <script src="/assets/js/vendor/modernizr-3.6.0.min.js"></script>
-  <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.3.1.min.js"><\/script>')</script>
-  <script src="/assets/js/plugins.js"></script>
+  <script src="{{ "/assets/js/vendor/modernizr-3.6.0.min.js" | relative_url }}"></script>
+  <script src="{{ "/assets/js/plugins.js" | relative_url }}"></script>
 </body>
 </html>
