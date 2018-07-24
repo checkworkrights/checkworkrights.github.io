@@ -328,11 +328,12 @@ footer h3{color:var(--green);}
 /* Header */
 #header{
     color:var(--white);
-    background-blend-mode: darken;
+    background-blend-mode: overlay;
     background-color: initial!important;
-    background: url(/assets/img/images/splash4.jpg) no-repeat top,linear-gradient(113deg,rgba(70,106,168,0.8) 54%,#29c4a9 100%);
+    background: url(/assets/img/images/splash4.jpg) no-repeat top,linear-gradient(113deg,rgba(26,36,46,0.5) 67%,#1D8770 100%);
     background-size: cover;
     z-index:2;
+    min-height: 40vh;
 }
 #header img{
 height:50px;
@@ -671,4 +672,8 @@ box-shadow: 3px 4px 17px -3px rgba(0,0,0,0.39);
 }
 #policy .container{
     padding-top: 30px;
+}
+.videorow{
+    margin-bottom: -20px;
+    margin-top:-20px;
 }
