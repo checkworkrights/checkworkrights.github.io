@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    
+    <url>
+        <loc>/policies/</loc>
+        <lastmod>2018-07-24</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/</loc>
+        <lastmod>2018-07-24</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/sitemap.xml</loc>
+        <lastmod>2018-07-24</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+
+    
+    <url>
+        <loc>/policies/eula</loc>
+        <lastmod>2018-07-24</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/policies/privacy-policy</loc>
+        <lastmod>2018-07-24</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/resources/recent-changes</loc>
+        <lastmod>2018-07-24</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+
+</urlset>

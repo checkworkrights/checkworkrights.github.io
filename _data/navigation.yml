@@ -1,0 +1,17 @@
+- title: Home
+  url: /
+
+- title: About
+  url: /#introduction
+  
+- title: Mobile
+  url: /#smartphone
+
+- title: Pricing
+  url: /#pricing
+  
+- title: Testimonials
+  url: /#testimonials
+
+- title: Contact
+  url: /#contact

@@ -1,0 +1,617 @@
+/*! HTML5 Boilerplate v6.1.0 | MIT License | https://html5boilerplate.com/ */
+
+/*
+ * What follows is the result of much research on cross-browser styling.
+ * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,
+ * Kroc Camen, and the H5BP dev community and team.
+ */
+
+/* ==========================================================================
+   Base styles: opinionated defaults
+   ========================================================================== */
+
+html {
+    color: #222;
+    font-size: 1em;
+    line-height: 1.4;
+}
+
+/*
+ * Remove text-shadow in selection highlight:
+ * https://twitter.com/miketaylr/status/12228805301
+ *
+ * Vendor-prefixed and regular ::selection selectors cannot be combined:
+ * https://stackoverflow.com/a/16982510/7133471
+ *
+ * Customize the background color to match your design.
+ */
+
+::-moz-selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+/*
+ * A better looking default horizontal rule
+ */
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+/*
+ * Remove the gap between audio, canvas, iframes,
+ * images, videos and the bottom of their containers:
+ * https://github.com/h5bp/html5-boilerplate/issues/440
+ */
+
+audio,
+canvas,
+iframe,
+img,
+svg,
+video {
+    vertical-align: middle;
+}
+
+/*
+ * Remove default fieldset styles.
+ */
+
+fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+/*
+ * Allow only vertical resizing of textareas.
+ */
+
+textarea {
+    resize: vertical;
+}
+
+/* ==========================================================================
+   Browser Upgrade Prompt
+   ========================================================================== */
+
+.browserupgrade {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}
+/* ==========================================================================
+   Helper classes
+   ========================================================================== */
+
+/*
+ * Hide visually and from screen readers
+ */
+
+.hidden {
+    display: none !important;
+}
+
+/*
+ * Hide only visually, but have it available for screen readers:
+ * https://snook.ca/archives/html_and_css/hiding-content-for-accessibility
+ *
+ * 1. For long content, line feeds are not interpreted as spaces and small width
+ *    causes content to wrap 1 word per line:
+ *    https://medium.com/@jessebeach/beware-smushed-off-screen-accessible-text-5952a4c2cbfe
+ */
+
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+    white-space: nowrap; /* 1 */
+}
+
+/*
+ * Extends the .visuallyhidden class to allow the element
+ * to be focusable when navigated to via the keyboard:
+ * https://www.drupal.org/node/897638
+ */
+
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus {
+    clip: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    position: static;
+    width: auto;
+    white-space: inherit;
+}
+
+/*
+ * Hide visually and from screen readers, but maintain layout
+ */
+
+.invisible {
+    visibility: hidden;
+}
+
+/*
+ * Clearfix: contain floats
+ *
+ * For modern browsers
+ * 1. The space content is one way to avoid an Opera bug when the
+ *    `contenteditable` attribute is included anywhere else in the document.
+ *    Otherwise it causes space to appear at the top and bottom of elements
+ *    that receive the `clearfix` class.
+ * 2. The use of `table` rather than `block` is only necessary if using
+ *    `:before` to contain the top-margins of child elements.
+ */
+
+.clearfix:before,
+.clearfix:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+/* ==========================================================================
+   EXAMPLE Media Queries for Responsive Design.
+   These examples override the primary ('mobile first') styles.
+   Modify as content requires.
+   ========================================================================== */
+
+@media only screen and (min-width: 35em) {
+    /* Style adjustments for viewports that meet the condition */
+}
+
+@media print,
+       (-webkit-min-device-pixel-ratio: 1.25),
+       (min-resolution: 1.25dppx),
+       (min-resolution: 120dpi) {
+    /* Style adjustments for high resolution devices */
+}
+
+/* ==========================================================================
+   Print styles.
+   Inlined to avoid the additional HTTP request:
+   https://www.phpied.com/delay-loading-your-print-css/
+   ========================================================================== */
+
+@media print {
+    *,
+    *:before,
+    *:after {
+        background: transparent !important;
+        color: #000 !important; /* Black prints faster */
+        -webkit-box-shadow: none !important;
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+    a,
+    a:visited {
+        text-decoration: underline;
+    }
+
+    a[href]:after {
+        content: " (" attr(href) ")";
+    }
+
+    abbr[title]:after {
+        content: " (" attr(title) ")";
+    }
+
+    /*
+     * Don't show links that are fragment identifiers,
+     * or use the `javascript:` pseudo protocol
+     */
+
+    a[href^="#"]:after,
+    a[href^="javascript:"]:after {
+        content: "";
+    }
+
+    pre {
+        white-space: pre-wrap !important;
+    }
+    pre,
+    blockquote {
+        border: 1px solid #999;
+        page-break-inside: avoid;
+    }
+
+    /*
+     * Printing Tables:
+     * http://css-discuss.incutio.com/wiki/Printing_Tables
+     */
+
+    thead {
+        display: table-header-group;
+    }
+
+    tr,
+    img {
+        page-break-inside: avoid;
+    }
+
+    p,
+    h2,
+    h3 {
+        orphans: 3;
+        widows: 3;
+    }
+
+    h2,
+    h3 {
+        page-break-after: avoid;
+    }
+}
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+.navbar-brand img{
+    padding-right:10px;
+}
+.navbar{
+    color:var(--white);
+    background-color:rgba(47, 64, 82,0.9) !important;
+}
+@media (max-width:576px){
+    .navbar{
+        padding: 1rem;
+   }
+}
+.bluebg{
+    background-color:var(--blue);
+    color:var(--white);    
+}
+.test-padding{
+    padding:20px 20px;
+}
+.scrolling{
+  padding:5px 20px !important;
+  transition: all 0.5s ease;
+}
+@media (max-width: 576px){
+    .test-padding{padding:20px 0 !important;}
+}
+/* Footer */
+footer ul{list-style-type: none;padding:0;}
+footer {
+    padding:30px 0 0 0;
+    border-bottom: 20px solid var(--blue);
+    background-blend-mode: screen;
+    background-image: url(/assets/img/images/lfv0v3_2h6s-mike-kononov.jpg)!important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color:var(--blue);
+    color:var(--white);
+}
+footer h3{color:var(--green);}
+/* Contact */
+#contact .col-md-6{
+    background-color: rgba(255,255,255,0.9);
+    padding: 30px;
+    border-radius: 6px;
+}
+#contact h2{
+    color:var(--gray-dark);
+}
+
+.container-fluid{padding:20px 10% 20px 10%;}
+/* Header */
+#header{
+    color:var(--white);
+    background-blend-mode: darken;
+    background-color: initial!important;
+    background: url(/assets/assets/img/images/splash4.jpg) no-repeat top,linear-gradient(113deg,rgba(70,106,168,0.8) 54%,#29c4a9 100%);
+    background-size: cover;
+    z-index:2;
+}
+#header img{
+height:50px;
+margin:5px;
+}
+#header .row{
+    padding:50px 0;
+    z-index: 100;
+}
+#header .col-12{
+    z-index: 100;
+}
+#header .col{
+    z-index: 100;
+}
+#footerlinks {
+    margin-top:30px;
+    background-color:rgba(47, 64, 82,0.9); !important;
+    padding-bottom: 60px;
+    
+}
+video {
+    width:100%;
+    z-index:100;
+}
+/* Features */
+#features{
+background: linear-gradient(43deg,rgba(21,70,117,0.5) 49%,rgba(41,196,169,0.5) 100%), url(/assets/img/images/hhcn6yy3uo8-cory-schadt.jpg) no-repeat center;
+    background-position: center;
+        -webkit-background-size: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: 100%;
+    -moz-background-size: cover;
+    background-size: 100%;
+    background-size: cover;
+}
+#features .row{
+    background-color: rgba(255,255,255,0.9);
+    padding: 30px;
+    margin:0 10%;
+}
+@media (max-width:1200px) and (min-width:992px){
+    #features .row{
+    margin:0;
+    }
+}
+@media (max-width:576px){
+    #features .row{
+    margin:0;
+    }
+}
+@media (max-width:992px){
+#features svg{
+        float:left;
+        margin-right:20px;
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+} 
+#features h4{
+    padding-top:10px;
+}
+#features p{
+    font-size: .75rem;
+    margin:0;
+}
+#features h2{
+    padding:0 0 20px 0;
+    font-size: 2rem;
+}
+#features svg{
+    color:var(--green);
+}
+#features li{
+    display: block;
+}
+#features a{
+    color: var(--green);
+    transition: all 0.2s;
+    text-decoration: none !important;
+    border-radius: 8px;
+    display: inline-block;
+    margin: 10px;
+}
+#features a:hover{
+    background-color: rgba(38,176,146,0.2);
+    padding: 0 12px;
+}
+.badges{
+    height: 50px;
+    margin: 5px;
+}
+/* smartphone */
+#smartphone{
+    background-blend-mode: darken;
+    background-image: url(/assets/img/images/aete6tuebck-gerrit-vermeulen.jpg)!important;
+    background-color: rgba(77,141,193,0.48)!important;
+    background-position: center;
+        -webkit-background-size: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: 100%;
+    -moz-background-size: cover;
+    background-size: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#smartphone .d-lg-none{
+    padding-bottom: 30px;
+}
+/* Testimonial */
+#testimonials{
+    background-image: url(/assets/img/images/qhnc70oivwq-martin-ezequiel-sanchez.jpg)!important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#testimonials .col-lg-3{background-color: rgba(255,255,255,0.9);
+    padding: 30px;
+      margin-bottom:20px; 
+}
+@media (max-width:992px) and (min-width:576px){
+
+    #testimonials img{
+        float: left;
+        margin: 5px 20px 20px 0 !important;
+    }
+}
+#testimonials h4{
+    padding-top:10px;
+}
+#testimonials p{
+    font-size: .75rem;
+}
+#testimonials h2{
+    padding:0 0 20px 0;
+    font-size: 2rem;
+}
+#testimonials img{
+    width:100px;
+    margin-bottom:10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 3px;
+}
+/* Media */
+#media img{
+padding:20px;
+margin-bottom:10px;
+    transition: all 0.2s;
+}
+#media img:hover{
+    background-color:rgba(255,255,255,0.1);
+}
+/* Demo Button */
+.btn-demo{
+    position: fixed;
+    bottom:20px;
+    right:20px;
+    padding:10px;
+    border-radius: 8px;
+    background-color:var(--green);
+    text-decoration: none !important;
+    transition:all 0.2s;
+    color:white;
+    -webkit-box-shadow: 0px 0px 0px 8px rgba(38,176,146,0.3);
+-moz-box-shadow: 0px 0px 0px 8px rgba(38,176,146,0.3);
+box-shadow: 0px 0px 0px 8px rgba(38,176,146,0.3);
+}
+.btn-demo:hover{
+    background-color:white;
+    color:var(--green);
+    border: 0.75px solid var(--green);
+    box-shadow:none;
+    -webkit-box-shadow:none;
+    -moz-box-shadow:none;
+}
+
+/* Resources Pages */
+#resource-header{
+    color:var(--dark);
+    background-blend-mode: darken;
+    background-color: initial!important;
+    background: url(/assets/img/images/splash4.jpg) no-repeat top,linear-gradient(113deg,rgba(70,106,168,0.8) 54%,#29c4a9 100%);
+    background-size: cover;
+
+}
+#resource-header .row{
+ min-height: 200px;
+}
+#resource-header .col{
+    background-color: rgba(255,255,255,0.7);
+    padding-bottom:20px;
+    padding-top:20px;
+}
+#resource-header h1{
+    padding:0 !important;
+    margin:0 !important;
+}
+#resource-header h6{
+    padding-top:10px;
+    margin:0 !important;
+}
+#resource-list img{
+    width: 100%;
+    height:150px;
+    object-fit: cover;
+}
+#resource-list .resource-container{
+    border: 1px solid var(--gray);
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#resource-list .text{
+    padding-top:20px;
+    padding-bottom:20px;
+}
+#resource-list .img{
+   padding:0 !important;
+}
+
+/* Features Pags */
+#features-header{
+    color:var(--dark);
+    background-blend-mode: darken;
+    background-color: initial!important;
+    background: url(/assets/img/images/splash4.jpg) no-repeat top,linear-gradient(113deg,rgba(70,106,168,0.8) 54%,#29c4a9 100%);
+    background-size: cover;
+        padding-bottom: 100px;
+}
+#features-header .row{
+ min-height: 200px;
+background-color: rgba(255,255,255,0.7);
+border-radius: 6px;
+overflow: hidden;
+}
+#features-header .text{
+    padding-bottom:40px;
+    padding-top:40px;
+}
+#features-header .img{
+    padding-right: 0;
+    padding-left: 0;
+}
+#features-header img{
+    width: 100%;
+    height:250px;
+    object-fit: cover;
+}
+#features-header h1{
+    padding:0 !important;
+    margin:0 !important;
+}
+#features-header h6{
+    padding-top:10px;
+    margin:0 !important;
+}
+#features-list img{
+    width: 100%;
+    height:150px;
+    object-fit: cover;
+}
+#features-list h2{
+font-size: 1.6rem;
+    padding:20px;
+    text-align: center;
+    width: 200%;
+    transform: translateX(-25%);
+    background-color: rgba(47, 64, 82,0.7) !important;
+    color: white;
+    margin-bottom: 40px;
+}
+#features-list .features-container{
+    margin-bottom: 40px;
+}
+#features-list .features-container:last-child{
+    margin-bottom: 0;
+}
+#features-list .text{
+    padding-top:20px;
+    padding-bottom:20px;
+}
+#features-list .img{
+   padding:0 !important;
+}
+#features-list .col-lg-10{
+ margin-top: -110px;
+}
