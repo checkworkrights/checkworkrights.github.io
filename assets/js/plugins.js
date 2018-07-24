@@ -77,7 +77,7 @@ $('a[href*="#"]')
   });       
 
 //stop video
-$('#VideoModal').on('hidden.bs.modal', function () {
+$('#videoModal').on('hidden.bs.modal', function () {
     player.stopVideo();
    // or jQuery
    $('#CWRvideo').get(0).stopVideo();
