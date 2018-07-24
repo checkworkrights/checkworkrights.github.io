@@ -86,7 +86,25 @@ $('#videoModal').children().filter("video").each(function(){
 $('#videoModal').empty();
 })
 
-
+//start video
+$('#videoModal').on('shown.bs.modal', function () {
+$('#videoModal').append('<div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Why CheckWorkRights</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+          <video controls="" id="html5_video_k3ct9w5ueut">
+<source id="CWRvideo" type="video/mp4" src="{{ "/assets/img/CWR-Animation.mp4" | relative_url }}">
+          </video>
+      </div>
+    </div>
+  </div>'   
+    );
+})
 
 // Place any jQuery/helper plugins in here.
 /* Lazy Load XT 1.1.0 | MIT License */
