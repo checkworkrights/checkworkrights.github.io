@@ -7,7 +7,7 @@
   <title>{{ page.title }} | {{ site.title }}</title>
   <meta name="description" content="{{ page.description }}">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<link rel="icon" type="image/png" href="icon.png" />
+<link rel="icon" type="image/png" href="{{ "icon.png"  | relative_url }}"/>
 <!--links-->
   <link href="https://fonts.googleapis.com/css?family=Montserrat:200,200i,400|Raleway:200,400" rel="stylesheet">
   <link rel="stylesheet" href="{{ "/assets/css/normalize.css" | relative_url }}">
@@ -40,42 +40,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
   <![endif]-->
 {% include nav.html %}
+    
   {{content}} 
 
 <footer class="bluebg">
-    <!--Form-->
-    <div id="contact" class="container-fluid">
-        <div class="row justify-content-center">
-            <div class="col-md-6 col-lg-4">
-                <h2 class="text-center">Contact Us</h2>
-            <form>
-                <div class="form-row">
-                    <div class="col">
-                    <input type="text" class="form-control" placeholder="First name">
-                    </div>
-                    <div class="col">
-                    <input type="text" class="form-control" placeholder="Last name">
-                    </div>
-                </div>
-                <div class="form-row">
-                    <div class="col">
-                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="8" placeholder="Message"></textarea>
-                    </div>
-                </div>
-                    <div class="form-row">
-                    <div class="col">
-                        <button type="submit" class="btn btn-primary">Submit</button>
-                        </div>
-                </div>
-            </form>
-            </div>
-        </div>
-    </div>
+{% if page.url == '/' %}
+{% include contact.html %}
+{% endif %}
     <!--ACTUAL footer-->
     <div id="footerlinks" class="container-fluid"> 
     <div class="row">
     <div class="col-12 col-lg-3"><img style="margin-bottom:20px;" src="/assets/img/Block-Logo_CheckWorkRightscopy-01.svg" height="30px"  alt="Checkworkrights Logo"><a href="/policies"><h3>Legal Information</h3></a></div>
-        <div class="col-12 col-lg-3"><h3>Get in Contact</h3><ul><li><a href="#">Email</a></li><li>Call (03) 9421 1020</li><li>About</li><li>Support</li></ul></div>
+        <div class="col-12 col-lg-3"><h3>Get in Contact</h3><ul><li><a href="mailto:hello@checkworkrights.com.au">Email</a></li><li>Call (03) 9421 1020</li><li><a href="/#introduction">About</a></li><li><a href="/support">Support</a></li></ul></div>
     <div class="col-12 col-lg-3"><h3>Visa Resources</h3><ul><a href="/resources/recent-changes"><li>Recent Changes in Visa Sponsorship Legislation</li></a></ul></div>
     <div class="col-12 col-lg-3"><h3>Partners</h3>
         <ul>

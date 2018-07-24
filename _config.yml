@@ -2,10 +2,3 @@ name: CheckWorkRights
 title: CheckWorkRights
 url: https://www.checkworkrights.com
 baseurl: /
-
-defaults:
-  -
-    scope:
-      path:            "assets/css/*.css"
-    values:
-      sitemap:         false

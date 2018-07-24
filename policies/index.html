@@ -5,15 +5,15 @@ layout: default
 permalink: /policies/
 ---
 <section id="legal">
-      <div class="container">
-          <div class="row">
+      <div class="container-fluid">
+          <div class="row justify-content-center">
               <div class="col-12 text-center">
                 <h1>Check Work Rights Legal Information</h1>
                 <p></p>
               </div>
               {% for post in site.categories.legal %}
-              <div class="col-lg-4 col-12 text-center"><a href="{{ post.url }}">
-                  <img style="width:100%" src="/assets/img/{{post.img}}" alt="{{post.title}}">
+              <div class="col-lg-4 col-12 text-left"><a href="{{ post.url }}">
+                  <i class="far fa-file-alt fa-2x"></i>
                   <h3 class="legaltitle">{{ post.title }}</h3>
                   <p class="legaldesc">{{ post.description }}</p>
                   </a></div>

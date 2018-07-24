@@ -166,11 +166,12 @@ a {
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
+  transition: all 0.2s;
 }
 
 a:hover {
-  color: #0056b3;
-  text-decoration: underline;
+  color: var(--green);
+  text-decoration: none;
 }
 
 a:not([href]):not([tabindex]) {
@@ -3961,7 +3962,7 @@ input[type="button"].btn-block {
   padding-top: 0.3125rem;
   padding-bottom: 0.3125rem;
   margin-right: 1rem;
-  font-size: 1.25rem;
+  font-size: 0.8rem;
   line-height: inherit;
   white-space: nowrap;
 }

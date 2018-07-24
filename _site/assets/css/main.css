@@ -269,6 +269,11 @@ textarea {
    ========================================================================== */
 .navbar-brand img{
     padding-right:10px;
+    float: left;
+}
+.navbar-brand p{
+        margin-top: 4px;
+    margin-bottom: 0;
 }
 .navbar{
     color:var(--white);
@@ -296,7 +301,6 @@ textarea {
 /* Footer */
 footer ul{list-style-type: none;padding:0;}
 footer {
-    padding:30px 0 0 0;
     border-bottom: 20px solid var(--blue);
     background-blend-mode: screen;
     background-image: url(/assets/img/images/lfv0v3_2h6s-mike-kononov.jpg)!important;
@@ -313,10 +317,13 @@ footer h3{color:var(--green);}
     padding: 30px;
     border-radius: 6px;
 }
+#contact .row{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
 #contact h2{
     color:var(--gray-dark);
 }
-
 .container-fluid{padding:20px 10% 20px 10%;}
 /* Header */
 #header{
@@ -342,7 +349,7 @@ margin:5px;
     z-index: 100;
 }
 #footerlinks {
-    margin-top:30px;
+    padding-top:30px;
     background-color:rgba(47, 64, 82,0.9); !important;
     padding-bottom: 60px;
     
@@ -401,6 +408,7 @@ background: linear-gradient(43deg,rgba(21,70,117,0.5) 49%,rgba(41,196,169,0.5) 1
 }
 #features li{
     display: block;
+    padding-bottom: 30px;
 }
 #features a{
     color: var(--green);
@@ -614,4 +622,53 @@ font-size: 1.6rem;
 }
 #features-list .col-lg-10{
  margin-top: -110px;
+}
+/* Legal / Policies Pags */
+
+#legal .container-fluid{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color:var(--blue);
+    background-image: url(https://www.checkworkrights.com.au/wp-content/uploads/2016/07/prlx.jpg)!important;
+        background-position: center;
+    -webkit-background-size: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: 100%;
+    -moz-background-size: cover;
+    background-size: 100%;
+    background-size: cover;
+        min-height: 70vh;
+}
+#legal h1{
+    padding-bottom: 100px;
+    color:var(--white);
+}
+#legal .col-lg-4{
+    padding: 40px;
+    margin:10px;
+background-color: rgba(255,255,255,0.9);
+-webkit-box-shadow: 3px 4px 17px -3px rgba(0,0,0,0.39);
+-moz-box-shadow: 3px 4px 17px -3px rgba(0,0,0,0.39);
+box-shadow: 3px 4px 17px -3px rgba(0,0,0,0.39);
+}
+#legal svg{
+        float:left;
+        margin-right:20px;
+        margin-bottom: 40px;
+        margin-top: 10px;
+        color:var(--green);
+}
+#policy .container-fluid{
+    overflow: hidden;
+    position: relative;
+    padding: 6% 0%;
+    background-position: center;
+    background-size: cover;
+}
+#policy h1{
+    padding-top: 10px;
+    background-color: rgba(255,255,255,0.85);
+}
+#policy .container{
+    padding-top: 30px;
 }
