@@ -312,14 +312,15 @@ footer {
 }
 footer h3{color:var(--green);}
 /* Contact */
-#contact .col-md-6{
+#contact .tile{
     background-color: rgba(255,255,255,0.9);
     padding: 30px;
     border-radius: 6px;
 }
-#contact .row{
+#contact{
     padding-top: 30px;
     padding-bottom: 30px;
+    min-height:70vh;
 }
 #contact h2{
     color:var(--gray-dark);
