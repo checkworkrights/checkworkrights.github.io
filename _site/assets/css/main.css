@@ -312,11 +312,6 @@ footer {
 }
 footer h3{color:var(--green);}
 /* Contact */
-#contact .tile{
-    background-color: rgba(255,255,255,0.9);
-    padding: 30px;
-    border-radius: 6px;
-}
 #contact{
     padding-top: 30px;
     padding-bottom: 30px;
@@ -324,6 +319,7 @@ footer h3{color:var(--green);}
 }
 #contact h2{
     color:var(--gray-dark);
+    padding-bottom:20px;
 }
 .container-fluid{padding:20px 10% 20px 10%;}
 /* Header */
@@ -682,4 +678,12 @@ box-shadow: 3px 4px 17px -3px rgba(0,0,0,0.39);
 #clients img{
     max-height: 100px;
     margin: 20px
+}
+.tile{
+        padding: 40px;
+    margin:10px;
+background-color: rgba(255,255,255,0.9);
+-webkit-box-shadow: 3px 4px 17px -3px rgba(0,0,0,0.39);
+-moz-box-shadow: 3px 4px 17px -3px rgba(0,0,0,0.39);
+box-shadow: 3px 4px 17px -3px rgba(0,0,0,0.39);
 }

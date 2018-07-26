@@ -10,20 +10,6 @@
     </url>
     
     <url>
-        <loc>/policies/</loc>
-        <lastmod>2018-07-26</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/support/</loc>
-        <lastmod>2018-07-26</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
         <loc>/</loc>
         <lastmod>2018-07-26</lastmod>
         <changefreq>daily</changefreq>
@@ -31,7 +17,21 @@
     </url>
     
     <url>
+        <loc>/policies/</loc>
+        <lastmod>2018-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
         <loc>/sitemap.xml</loc>
+        <lastmod>2018-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/support/</loc>
         <lastmod>2018-07-26</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>

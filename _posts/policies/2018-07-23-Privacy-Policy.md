@@ -3,6 +3,7 @@ title: Privacy Policy
 description: What Check Work Rights does to ensure your private information is kept private
 layout: policy
 img: lfv0v3_2h6s-mike-kononov.jpg
+fa-icon: far fa-file-alt
 permalink: /policies/:slug
 category: legal
 ---
