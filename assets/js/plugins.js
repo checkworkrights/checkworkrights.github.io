@@ -76,7 +76,7 @@ $('a[href*="#"]')
     }
   });       
 
-//stop video
+/*stop video
 $('#videoModal').on('hidden.bs.modal', function () {
 $('#videoModal').children().filter("video").each(function(){
     this.pause(); 
@@ -84,7 +84,7 @@ $('#videoModal').children().filter("video").each(function(){
     $(this).remove();
 });
 $('#videoModal').empty();
-})
+})*/
 
 // Place any jQuery/helper plugins in here.
 /* Lazy Load XT 1.1.0 | MIT License */
