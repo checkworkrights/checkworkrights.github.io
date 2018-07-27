@@ -51,8 +51,6 @@ category: case
 <div class="col-12"><hr/></div> 
      
 </div>
-
-
  
 <div class="casecta text-center">
 <h2>Download now for a free trial</h2>
