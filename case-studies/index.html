@@ -1,0 +1,24 @@
+---
+title: User Case Studies
+description: Learn how different organisations take advantage of CheckWorkRights within their business
+layout: default
+permalink: /case-studies/
+---
+
+<section id="legal">
+      <div class="container-fluid">
+          <div class="row justify-content-center">
+              <div class="col-12 text-center">
+                <h1>Check Work Rights User Case Studies</h1>
+                <p></p>
+              </div>
+              {% for post in site.categories.case %}
+              <div class="col-lg-4 col-12 text-left"><a href="{{ post.url }}">
+                  <i class="{{post.fa-icon}} fa-2x"></i>
+                  <h3 class="legaltitle">{{ post.title }}</h3>
+                  <p class="legaldesc">{{ post.description }}</p>
+                  </a></div>
+              {% endfor %}
+          </div>
+      </div>
+    </section>
