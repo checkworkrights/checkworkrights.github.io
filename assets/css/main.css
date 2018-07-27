@@ -687,3 +687,67 @@ background-color: rgba(255,255,255,0.9);
 -moz-box-shadow: 3px 4px 17px -3px rgba(0,0,0,0.39);
 box-shadow: 3px 4px 17px -3px rgba(0,0,0,0.39);
 }
+
+#cases .container-fluid{
+    overflow: hidden;
+    position: relative;
+    padding-top:6%;
+    padding-bottom:6%;
+    background-position: center;
+    background-size: cover;
+}
+#cases .title{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgba(255,255,255,0.85);
+}
+#cases .container{
+    padding-top: 30px;
+}
+.casehow .col-lg-6{
+    padding:20px;
+}
+.casehow img{
+    padding-bottom: 20px;
+    width: 40%;
+}
+.casehow hr{
+    margin:3em 0;
+}
+.casehow h2{
+    padding-bottom:20px;
+}
+.casecta{
+    padding-top:30px;
+    padding-bottom:30px;
+    background-color: rgba(47, 64, 82,0.8);
+    margin:20px 0px;
+    color:white;
+    border-radius: 8px;
+}
+.casecta h2{
+    color:var(--green);
+    font-size: 1.8rem;
+}
+.casecta input{
+    width:75%;
+    float: left;
+    padding: 11px;
+    font-size:90%;
+    border-radius: 8px 0px 0px 8px;
+    border: 1px solid var(--gray);
+}
+.casecta button{
+    background-color: var(--green);
+    color:white;
+    border-radius: 0px 8px 8px 0px;
+    border:1px solid var(--green);
+    width:25%;
+    padding: 8px;
+}
+.casecta form{
+    width:90%;
+    max-width: 500px;
+    display:inline-block;
+    padding-top: 10px;
+}

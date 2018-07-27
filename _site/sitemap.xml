@@ -3,14 +3,14 @@
 
     
     <url>
-        <loc>/contact</loc>
+        <loc>/case-studies/</loc>
         <lastmod>2018-07-27</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/case-studies/</loc>
+        <loc>/contact</loc>
         <lastmod>2018-07-27</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
@@ -48,13 +48,6 @@
     
     <url>
         <loc>/policies/eula</loc>
-        <lastmod>2018-07-27</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/case-studies/large-business</loc>
         <lastmod>2018-07-27</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>

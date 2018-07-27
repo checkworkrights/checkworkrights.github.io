@@ -13,9 +13,9 @@ permalink: /case-studies/
                 <p></p>
               </div>
               {% for post in site.categories.case %}
-              <div class="col-lg-4 col-12 text-left"><a href="{{ post.url }}">
-                  <i class="{{post.fa-icon}} fa-2x"></i>
-                  <h3 class="legaltitle">{{ post.title }}</h3>
+              <div class="col-lg-6 tile col-12 text-left"><a href="{{ post.url }}">
+
+                  <h2 class="legaltitle">{{ post.title }}</h2>
                   <p class="legaldesc">{{ post.description }}</p>
                   </a></div>
               {% endfor %}
