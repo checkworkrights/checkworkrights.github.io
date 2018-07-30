@@ -429,8 +429,8 @@ background: linear-gradient(43deg,rgba(21,70,117,0.5) 49%,rgba(41,196,169,0.5) 1
 /* smartphone */
 #smartphone{
     background-blend-mode: darken;
-    background-image: url(/assets/img/images/aete6tuebck-gerrit-vermeulen.jpg)!important;
-    background-color: rgba(77,141,193,0.48)!important;
+    background-image: url(/assets/img/images/aete6tuebck-gerrit-vermeulen.jpg);
+    background-color: rgba(77,141,193,0.48);
     background-position: center;
         -webkit-background-size: 100%;
     -webkit-background-size: cover;
@@ -445,10 +445,11 @@ background: linear-gradient(43deg,rgba(21,70,117,0.5) 49%,rgba(41,196,169,0.5) 1
 }
 /* Testimonial */
 #testimonials{
-    background-image: url(/assets/img/images/qhnc70oivwq-martin-ezequiel-sanchez.jpg)!important;
+    background-image: url(/assets/img/images/qhnc70oivwq-martin-ezequiel-sanchez.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    
 }
 
 #testimonials .col-lg-3{
