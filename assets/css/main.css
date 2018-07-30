@@ -667,6 +667,9 @@ font-size: 1.6rem;
 #policy .container{
     padding-top: 30px;
 }
+#policy h3{
+    font-weight:500;
+}
 .videorow{
     margin-bottom: -20px;
     margin-top:-20px;
