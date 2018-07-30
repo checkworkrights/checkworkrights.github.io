@@ -673,7 +673,8 @@ font-size: 1.6rem;
 
 #clients img{
     max-height: 100px;
-    margin: 20px
+    margin: 20px;
+    filter: brightness(110%) saturate(80%);
 }
 .tile{
 padding: 40px;
