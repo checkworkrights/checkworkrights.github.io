@@ -1,6 +1,3 @@
-- title: Home
-  url: /
-
 - title: About
   url: /#introduction
   
@@ -9,9 +6,6 @@
 
 - title: Pricing
   url: /#pricing
-  
-- title: Testimonials
-  url: /#testimonials
 
 - title: Contact
   url: /contact
