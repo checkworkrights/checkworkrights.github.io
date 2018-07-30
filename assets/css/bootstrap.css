@@ -62,7 +62,6 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 body {
   margin: 0;
   font-family: var(--font-family-mont);
-  font-size: 14px;
   font-weight: 300;
   line-height: 1.5;
   color: #212529;
@@ -371,12 +370,12 @@ h1, h2, h3, h4, h5, h6,
 }
 
 h1, .h1 {
-  font-size: 2.2rem;
+  font-size: 2.4rem;
   padding-bottom:10px;
 }
 
 h2, .h2 {
-  font-size: 2.0rem;
+  font-size: 2.2rem;
 }
 
 h3, .h3 {
@@ -384,7 +383,7 @@ h3, .h3 {
 }
 
 h4, .h4 {
-  font-size: .9rem;
+  font-size: 1rem;
   font-weight: 400;
 }
 
@@ -3961,7 +3960,7 @@ input[type="button"].btn-block {
   padding-top: 0.3125rem;
   padding-bottom: 0.3125rem;
   margin-right: 1rem;
-  font-size: 0.8rem;
+  font-size: 1rem;
   line-height: inherit;
   white-space: nowrap;
 }
