@@ -694,6 +694,12 @@ font-size: 1.6rem;
 #legalworkers .datehr{
     margin:1em 0 !important;
 }
+#legalworkers a{
+    text-decoration: underline;
+}
+#legalworkers a:hover{
+    text-decoration: none;
+}
 .videorow{
     margin-bottom: -20px;
     margin-top:-20px;

@@ -40,7 +40,7 @@ The main purpose of the program is to allow holders to visit Australia for an ex
 
 Working holiday makers can work full time but are subjected to the condition 8547 which limits the visa holder working with any one employer to a maximum period of six months, unless an extension is granted by the Department of Home Affairs. There are few exceptions to this rule depending on the location of employment. 
 
-For further information on WHV please please click here
+[For further information on WHV please please click here](/working-holiday-makers)
 <hr>
 #### Student visas
 
@@ -50,7 +50,7 @@ Dependants on student visas are typically permitted to work only 40 hours a fort
 
 In the last three years there has been substantial increase in the student visa cancellations for non-compliance. Therefore, it is important to carry out regular checks to verify their immigration status. 
 
-For further information on student visas please click here
+[For further information on student visas please click here](/student-visas)
 <hr>
 #### Bridging Visa holders
 
@@ -58,4 +58,4 @@ Bridging visa typically allows the holder to remain in Australia after their cur
 
 Employers should carry out checks, at least every three months, to ensure that bridging visa holder has continued work rights in Australia. 
 
-For further information on student visas please click here
+[For further information on bridging visas please click here](/bridging-visas)
