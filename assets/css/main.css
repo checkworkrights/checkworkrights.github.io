@@ -670,6 +670,30 @@ font-size: 1.6rem;
 #policy h3{
     font-weight:500;
 }
+#legalworkers .container-fluid{
+    overflow: hidden;
+    position: relative;
+    padding: 6% 0%;
+    background-position: center;
+    background-size: cover;
+}
+
+#legalworkers .container{
+    padding-top: 30px;
+}
+#legalworkers h2{
+    font-weight:300;
+    font-size: 1.5rem;
+     text-transform: uppercase;
+    color:var(--green);
+    text-align: left;
+}
+#legalworkers hr{
+    margin:2em 0;
+}
+#legalworkers .datehr{
+    margin:1em 0 !important;
+}
 .videorow{
     margin-bottom: -20px;
     margin-top:-20px;
@@ -722,10 +746,11 @@ box-shadow: 3px 4px 17px -3px rgba(0,0,0,0.39);
 .casecta{
     padding-top:30px;
     padding-bottom:30px;
-    background-color: rgba(47, 64, 82,0.8);
+    background-color: rgba(47, 64, 82,0.95);
     margin:20px 0px;
     color:white;
     border-radius: 8px;
+    margin-bottom: 5em;
 }
 .casecta h2{
     color:var(--green);
@@ -745,7 +770,7 @@ box-shadow: 3px 4px 17px -3px rgba(0,0,0,0.39);
     border-radius: 0px 8px 8px 0px;
     border:1px solid var(--green);
     width:25%;
-    padding: 8px;
+    padding: 9.4px;
 }
 .casecta form{
     width:90%;

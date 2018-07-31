@@ -1,5 +1,5 @@
 ---
-title: Small Business User Case
+title: Small Business Users
 description: We know that it is difficult to keep track of compliance in a small business. No HR Team, not core business, compliance doesn’t make you money
 layout: cases
 img: lfv0v3_2h6s-mike-kononov.jpg

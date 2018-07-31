@@ -1,11 +1,11 @@
-- title: About
-  url: /#introduction
-  
 - title: Case Studies
   url: /case-studies
 
 - title: Pricing
   url: /#pricing
-
+  
+- title: About
+  url: /#introduction
+  
 - title: Contact
   url: /contact

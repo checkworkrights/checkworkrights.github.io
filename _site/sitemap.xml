@@ -3,43 +3,50 @@
 
     
     <url>
+        <loc>/404.html</loc>
+        <lastmod>2018-07-31</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
         <loc>/case-studies/</loc>
-        <lastmod>2018-07-30</lastmod>
+        <lastmod>2018-07-31</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>/contact</loc>
-        <lastmod>2018-07-30</lastmod>
+        <lastmod>2018-07-31</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>/</loc>
-        <lastmod>2018-07-30</lastmod>
+        <lastmod>2018-07-31</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>/policies/</loc>
-        <lastmod>2018-07-30</lastmod>
+        <lastmod>2018-07-31</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>/sitemap.xml</loc>
-        <lastmod>2018-07-30</lastmod>
+        <lastmod>2018-07-31</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>/support/</loc>
-        <lastmod>2018-07-30</lastmod>
+        <lastmod>2018-07-31</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
@@ -47,36 +54,71 @@
 
     
     <url>
+        <loc>/how-to-employ-legal-workers</loc>
+        <lastmod>2018-07-31</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/temporary-visa-work-rights</loc>
+        <lastmod>2018-07-31</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/working-holiday-makers</loc>
+        <lastmod>2018-07-31</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/bridging-visas</loc>
+        <lastmod>2018-07-31</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
         <loc>/resources/what-documents</loc>
-        <lastmod>2018-07-30</lastmod>
+        <lastmod>2018-07-31</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/student-visas</loc>
+        <lastmod>2018-07-31</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>/policies/eula</loc>
-        <lastmod>2018-07-30</lastmod>
+        <lastmod>2018-07-31</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>/policies/privacy-policy</loc>
-        <lastmod>2018-07-30</lastmod>
+        <lastmod>2018-07-31</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>/case-studies/small-business</loc>
-        <lastmod>2018-07-30</lastmod>
+        <lastmod>2018-07-31</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>/resources/recent-changes</loc>
-        <lastmod>2018-07-30</lastmod>
+        <lastmod>2018-07-31</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
