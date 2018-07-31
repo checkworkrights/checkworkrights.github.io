@@ -2,8 +2,7 @@
 title: VEVO Checking for Healthcare Organisations
 description: We know that it is difficult to keep track of compliance in a small business. No HR Team, not core business, compliance doesn’t make you money
 layout: cases
-img: lfv0v3_2h6s-mike-kononov.jpg
-fa-icon: far fa-file-alt
+img: aete6tuebck-gerrit-vermeulen.jpg
 permalink: /case-studies/:slug
 category: case
 vector: hospital.svg
