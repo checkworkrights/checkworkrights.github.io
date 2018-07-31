@@ -26,18 +26,18 @@ It is therefore extremely important to carry out a visa verification check to as
 <hr/>
 ## Bridging visa B (BVB)
 
-A Bridging visa B (BVB) allows a holder to return Australia while their substantive visa application is being processed, provided they re-enter Australia within the specified travel period. 
+A Bridging visa B (BVB) allows a holder to leave Australia while their substantive visa application is being processed, provided they re-enter Australia within the specified travel period. 
 <hr/>
 ## Bridging visa C (BVC)
 
-A Bridging visa C (BVC) allows the holder to remain in Australia while their substantive visa application is being processed. A BVC is typically granted if the holder lodges an application in Australia for a substantive visa but do not already hold a substantive visa. As an example a Bridging visa A holder lodges an application for subclass 482 while in Australia, they will be granted a Bridging visa C.
+A Bridging visa C (BVC) allows the holder to remain in Australia while their substantive visa application is being processed. A BVC is typically granted if the holder lodges an application in Australia for a substantive visa but do not already hold a substantive visa. As an example, where a Bridging visa A holder lodges an application for a subclass 482 visa while in Australia, they will be granted a Bridging visa C.
 
 A BVC does not allow the holder to return to Australia if they leave. 
 
 **Work rights**
 
-+ BVC that is first granted at the time the substantive visa is lodged will not have work rights.
-+ BVC holder who seek work rights will have to make a new bridging visa application to waive the “no work” condition on the basis of financial hardship. 
++ A BVC that is first granted at the time the substantive visa is lodged will not have work rights.
++ A BVC holder who seek work rights will have to make a new bridging visa application to waive the “no work” condition on the basis of financial hardship. 
 <hr/>
 ## Bridging visa D (BVD)
 
@@ -51,12 +51,12 @@ A BVD does not allow the holder to return to Australia if they leave.
 <hr/>
 ## Bridging visa E (BVE)
 
-A Bridging visa (BVE) allows someone to lawfully remain in Australia, if their substantive visa has ended, and they are either:
+A Bridging visa E (BVE) allows someone to lawfully remain in Australia, if their substantive visa has ended, and they are either:
 
 + Making arrangements to leave Australia
 + Finalising their immigration matter or are waiting for a decision on a pending application.
 
- There are two types of BVE’s:
+ There are two types of BVE:
 
 + Bridging (General) visa (subclass 050)- generally granted to an unlawful non-citizen
 + Bridging (Protection Visa Applicant) visa – used in limited circumstances for eligible non-citizens who are prevented from making a bridging visa application under the Migration Act or Regulations
@@ -65,8 +65,8 @@ A BVE does not allow the holder to return to Australia if they leave.
 
 **Work rights**
 
-+ BVE that is first granted at the time the substantive visa is lodged will not have work rights.
-+ BVE holder who seek work rights will have to make a new bridging visa application to waive the “no work” condition on the basis of financial hardship. 
++ A BVE that is first granted at the time the substantive visa is lodged will not have work rights.
++ A BVE holder who seeks work rights will have to make a new bridging visa application to waive the “no work” condition on the basis of financial hardship. 
 <hr/>
 ## How often should you check work rights for Bridging visa holders?
 

@@ -788,3 +788,14 @@ box-shadow: 3px 4px 17px -3px rgba(0,0,0,0.39);
     display:inline-block;
     padding-top: 10px;
 }
+#casestudies img{
+    width:30%;
+    padding-bottom: 20px;
+}
+#casestudies .btn{
+        margin-top: 20px;
+}
+#casestudies .tile{
+    background-color: rgba(47, 64, 82,0.9);
+    color: white;
+}

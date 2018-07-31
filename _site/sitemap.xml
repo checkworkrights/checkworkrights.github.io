@@ -10,13 +10,6 @@
     </url>
     
     <url>
-        <loc>/case-studies/</loc>
-        <lastmod>2018-07-31</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
         <loc>/contact</loc>
         <lastmod>2018-07-31</lastmod>
         <changefreq>daily</changefreq>
@@ -75,7 +68,21 @@
     </url>
     
     <url>
+        <loc>/case-studies/multisite</loc>
+        <lastmod>2018-07-31</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
         <loc>/bridging-visas</loc>
+        <lastmod>2018-07-31</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/case-studies/healthcare</loc>
         <lastmod>2018-07-31</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>

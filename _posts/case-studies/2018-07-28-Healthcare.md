@@ -1,12 +1,12 @@
 ---
-title: Easy VEVO Checks for Hospitality and Retail 
+title: VEVO Checking for Healthcare Organisations
 description: We know that it is difficult to keep track of compliance in a small business. No HR Team, not core business, compliance doesn’t make you money
 layout: cases
 img: lfv0v3_2h6s-mike-kononov.jpg
 fa-icon: far fa-file-alt
 permalink: /case-studies/:slug
 category: case
-vector: restaurant.svg
+vector: hospital.svg
 ---
 
  <div class="row casehow text-center">
