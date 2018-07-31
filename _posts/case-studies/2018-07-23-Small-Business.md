@@ -13,22 +13,22 @@ category: case
  <div class="row casehow text-center">
      
 <div class="col-lg-6 col-12">
-<img src="/assets/img/CWR-Ico.png">
+<img src="/assets/img/vectors/smartphone.svg">
 <h4>Quick Checking Process</h4> 
 <p>Scanning a passport with your smartphone will return a VEVO result in a few seconds</p>
 </div>
 <div class="col-lg-6 col-12">
-<img src="/assets/img/CWR-Ico.png">
+<img src="/assets/img/vectors/invoice.svg">
 <h4>Low Cost Solution</h4>
 <p>Price per check is $2, paid directly through the app</p>
 </div>
 <div class="col-lg-6 col-12">
-<img src="/assets/img/CWR-Ico.png">
+<img src="/assets/img/vectors/brainstorm.svg">
 <h4>Easy Of Use</h4>
 <p>Intuitive and simple user interface available for iPhone and Android</p>
 </div>
 <div class="col-lg-6 col-12">
-<img src="/assets/img/CWR-Ico.png">
+<img src="/assets/img/vectors/calendar.svg">
 <h4>Automated Ongoing Checks</h4>
 <p>Keeps you compliant and saves you time. Alerts and reports sent automatically.</p>
 </div>
