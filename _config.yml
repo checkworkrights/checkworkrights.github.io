@@ -2,3 +2,5 @@ name: CheckWorkRights
 title: CheckWorkRights
 url: https://www.checkworkrights.com
 baseurl: /
+plugins:
+  - jekyll-redirect-from

@@ -24,6 +24,13 @@
     </url>
     
     <url>
+        <loc>/iphone</loc>
+        <lastmod>2018-08-02</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
         <loc>/policies/</loc>
         <lastmod>2018-08-02</lastmod>
         <changefreq>daily</changefreq>
