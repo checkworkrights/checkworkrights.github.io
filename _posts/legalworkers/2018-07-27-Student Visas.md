@@ -1,61 +1,44 @@
 ---
 title: Employing Student Visa Holders
-description: With many temporary visa holders now entering the Australian workforce, it is important for Australian businesses to understand which visa holders’ have work rights in Australia, and the conditions attached to each visa.
+description: From 1 July 2016, all international students apply for a single Student visa (subclass 500) regardless of the chosen course of study, which can include higher education, postgraduate, and vocational courses.  
 layout: legalworkers
 img: StockSnap_MRF1628S9A.jpg
 permalink: /:slug
 category: legalworkers
 ---
 
-As per recent data released from the Department of Home Affairs, there are now over 2.2 million temporary visa holders in Australia. This includes students, visitors, working holiday makers, temporary residents and bridging visa holders.
+The primary purpose of Student visas is to allow international students to undertake their studies in Australia.  From 1 July 2016, all international students apply for a single Student visa (subclass 500) regardless of the chosen course of study, which can include higher education, postgraduate, and vocational courses.  
 
-With many temporary visa holders now entering the Australian workforce, it is important for Australian businesses to understand which visa holders’ have work rights in Australia, and the conditions attached to each visa.
+## Work rights on a student visa
 
-## Temporary visas with full work rights
+All student visa holders are subjected to the condition 8105 which restricts students to 40 hours work per fortnight while their course is in session, and for unlimited hours during course breaks.
 
-The following primary visa holders have full work rights in Australia but are subjected to condition 8107 which limits their employment to the approved sponsor.
+Student visa holders can only start working once their course has commenced.
 
-+ Temporary Work (skilled) visa (Subclass 457)
-+ Temporary Shortage Skills visa (subclass 482)
-+ Temporary Work (Short Stay Specialist) visa (Subclass 400) 
-+ Temporary Activity visa (Subclass 408) 
+Higher degree by research students studying for PhD or Masters by research can work unlimited hours once their master’s or PhD course has commenced. 
 
-The following visa holders have full work rights in Australia without any condition/ limitations as to their employment:  
+## Secondary Applicant’s on student visas
 
-+ Partner (Provisional) visa - Subclass 309/820 
-+ Business Innovation and Investment (Provisional) Subclass 188 
-+ Temporary Work (skilled) visa (Subclass 457) dependants 
-+ Temporary Shortage Skills visa (subclass 482) dependants 
-+ Skilled Recognised Graduate visa (Subclass 476)
-+ Special Category Visa (Subclass 444) granted to New Zealand Citizens
-+ Temporary Graduate visa (Subclass 485) 
+Secondary applicants (spouse/children) are typically able to work for 40 hours a fortnight, once the primary applicant commences the course. 
 
-There are other temporary visas which may also carry work rights such as temporary protection visas and skilled regional visas. These may have additional visa conditions that employers need to be aware of.
+Dependants of PhD and master’s students are able to work fulltime once the course commences.
 
-## Temporary visas with work limitations
-<hr>
-#### Working Holiday Makers
+## Student visa cancellations
 
-The main purpose of the program is to allow holders to visit Australia for an extended holiday. Working holiday workers can do any kind of over the course of the 12 months stay in Australia. 
+There has been a significant increase in the student visa cancellations in the last five years.
 
-Working holiday makers can work full time but are subjected to the condition 8547 which limits the visa holder working with any one employer to a maximum period of six months, unless an extension is granted by the Department of Home Affairs. There are few exceptions to this rule depending on the location of employment. 
+![Student Visa Cancellations 2011-2017](/assets/img/images/studentvisacancel.png "Student Visa Cancellations 2011-2017")
 
-For further information on WHV please please click here
-<hr>
-#### Student visas
+The reasons for cancellation include:
 
-Most student visa holders are subjected to the condition which only permits them to work 40 hours a fortnight while university is in session and full time during semester breaks 
++ Not satisfying course requirements (example: non-attendance)
++ Completing a course early
++ Working more than 40 hours a fortnight while course is in session 
++ Not maintaining adequate health insurance 
++ Being involved in disruptive behaviour or being convicted of a criminal offence
 
-Dependants on student visas are typically permitted to work only 40 hours a fortnight, unless the primary visa holder is studying towards a masters or doctoral degree. 
+Given the increased monitoring of student visa holders, it is extremely important that employers check the visa status of student visa holders on a regular basis.
 
-In the last three years there has been substantial increase in the student visa cancellations for non-compliance. Therefore, it is important to carry out regular checks to verify their immigration status. 
+## Employing student visa holders
 
-For further information on student visas please click here
-<hr>
-#### Bridging Visa holders
-
-Bridging visa typically allows the holder to remain in Australia after their current visa ceases, until their new substantive visa application is finalised.  There are various Bridging visas, and the conditions imposed on the bridging visa is dependent on a range of factors. 
-
-Employers should carry out checks, at least every three months, to ensure that bridging visa holder has continued work rights in Australia. 
-
-For further information on student visas please click here
+Checkworkrights recommends that employers obtain a copy of the student’s Confirmation of Enrolment prior to onboarding to confirm the course commencement date and carry out a visa verification check at least once a month.

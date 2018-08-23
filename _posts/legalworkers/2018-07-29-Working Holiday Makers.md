@@ -7,7 +7,7 @@ permalink: /:slug
 category: legalworkers
 ---
 
-The Working Holiday Maker program is to encourage cultural exchange by permitting young persons to travel to Australia for an extended holiday supplemented by short term employment.  There are two visa streams that fall within Working Holiday program, this includes Working Holiday Visa (subclass 417) and Work and Holiday Visa (subclass 462).  
+The Working Holiday visa program allows young people to holiday and work in Australia for up to a year.  There are two visa streams that fall within the Working Holiday program, this includes Working Holiday Visa (subclass 417) and Work and Holiday Visa (subclass 462).  
 
 ## Work Limitations
 
@@ -22,7 +22,7 @@ Note, however, that working in a different position at the same workplace (for e
 
 ## Working beyond six-months work limitation
 
-WHM visa holders may be eligible for an extension of the six-month employment limitation in certain circumstances:
+WHV visa holders may be eligible for an extension of the six-month employment limitation in certain circumstances:
 
 + Visa holders who have carried out six months work as an au pair anywhere in Australia may be given approval to work for up to six additional months with the same employer.
 + Visa holders who have carried out six months work in eligible industries in northern Australia may be given approval to work for up to six additional months with the same employer. The eligible industries are aged and disability care, agriculture, forestry and fishing, construction, mining, and tourism and hospitality. 

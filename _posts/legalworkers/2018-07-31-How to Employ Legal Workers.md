@@ -7,14 +7,14 @@ permalink: /:slug
 category: legalworkers
 ---
 
-There has been an unprecedented rise in immigration monitoring activities by the Australian Border Force in recent times. Business that have failed to comply with the requirement to employ legal workers, depending on the severity of the breach, are served warnings, infringement notices and civil penalties.  
+There has been an unprecedented rise in immigration monitoring activities by the Australian Border Force in recent times. Businesses that have failed to comply with the requirement to employ legal workers, depending on the severity of the breach, are served warnings, infringement notices and civil penalties.  
 
 Failing to employ legal workers can result in penalties and sanctions for employers, regardless of whether the employer was aware that someone was an illegal worker.  Under Australian law, employers are required to take reasonable steps to make sure they are not employing, referring or contracting illegal workers. 
 
 Department of Home Affairs expects employers to check that all non-citizens working for them are permitted to work in Australia. This includes paid and unpaid workers, contractors, and workers employed through labour hire or referral companies. 
 
 
-### WHO CAN YOU EMPLOY?
+## WHO CAN YOU EMPLOY?
 
 The following persons can be employed by an Australian business: 
 + Australian citizens
@@ -22,7 +22,7 @@ The following persons can be employed by an Australian business:
 + New Zealand Citizens
 + Holders of visas will allow them to legally work in Australia
 
-### HOW DO I KNOW?
+## HOW DO I KNOW?
 
 To confirm Australian or New Zealand citizenship an employer can sight:
 
@@ -37,7 +37,7 @@ To confirm permanent resident status, an employer can sight:
 + A passport issued by the government of another country along with a visa entitlement verification online check
 
 
-### WHAT DO I HAVE TO DO IF THEY ARE A VISA HOLDER?
+## WHAT DO I HAVE TO DO IF THEY ARE A VISA HOLDER?
 
 Employers are required to take reasonable steps, at reasonable times, to confirm that a non-citizen is allowed to work.
 
@@ -45,7 +45,7 @@ The Department of Home Affairs recommends that checks should be conducted before
 
 If a non-citizen is a bridging visa holder and VEVO does not show a visa expiry date, the Department recommends that a check be performed every three months to ensure that the non-citizen still has the permission to work. 
 
-### PENALTIES AND SANCTIONS FOR EMPLOYING ILLEGAL WORKERS	
+## PENALTIES AND SANCTIONS FOR EMPLOYING ILLEGAL WORKERS	
 
 The penalties for employing illegal workers are as shown in the table below:
 

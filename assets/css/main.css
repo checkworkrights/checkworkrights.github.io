@@ -705,6 +705,9 @@ font-size: 1.6rem;
 #legalworkers a:hover{
     text-decoration: none;
 }
+#legalworkers p img{
+    width:100%;
+}
 .videorow{
     margin-bottom: -20px;
     margin-top:-20px;
