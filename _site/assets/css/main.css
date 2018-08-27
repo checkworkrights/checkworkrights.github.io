@@ -803,8 +803,9 @@ box-shadow: 3px 4px 17px -3px rgba(0,0,0,0.39);
         margin-top: 20px;
 }
 #casestudies .tile{
-    background-blend-mode: soft-light;
+    background-blend-mode: exclusion;
     background: url(/assets/img/images/splash4.jpg) no-repeat top,linear-gradient(113deg,rgba(47, 64, 82,0.95) 54%,rgba(47, 64, 82,0.95) 100%);
     background-size: cover;
     color: white;
+    text-shadow: 2px 2px 7px #000000;
 }

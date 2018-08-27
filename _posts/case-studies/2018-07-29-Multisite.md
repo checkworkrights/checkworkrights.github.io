@@ -5,7 +5,7 @@ layout: cases
 img: lfv0v3_2h6s-mike-kononov.jpg
 permalink: /case-studies/:slug
 category: case
-vector: buildinglarge.svg
+vector: multisite.svg
 ---
 
  <div class="row casehow text-center">
@@ -39,12 +39,12 @@ vector: buildinglarge.svg
 <p>The details of the initial check are stored and rechecked regularly to maintain on-going workplace entitlement for the duration of their employment</p>
 </div>
 <div class="col-lg-6 col-12">
-<img src="/assets/img/vectors/brainstorm.svg">
+<img src="/assets/img/vectors/analytics.svg">
 <h4>Centralised Records and Reports</h4>
 <p>Multisite managers access secure reports on the status of work rights across the entire business, giving the visibility needed to make informed strategic decisions</p>
 </div>
 <div class="col-lg-6 col-12">
-<img src="/assets/img/vectors/calendar.svg">
+<img src="/assets/img/vectors/sharing.svg">
 <h4>Bespoke API Integration</h4>
 <p>With a robust API and Web hooks, Checkworkrights can be integrated seamlessly into your existing HR management system</p>
 </div>
