@@ -277,7 +277,7 @@ textarea {
 }
 .navbar{
     color:var(--white);
-    background-color:rgba(47, 64, 82,0.9) !important;
+    background-color:rgba(47, 64, 82,0.95) !important;
 }
 @media (max-width:576px){
     .navbar{
