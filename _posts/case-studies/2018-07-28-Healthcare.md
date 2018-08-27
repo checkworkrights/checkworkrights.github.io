@@ -21,7 +21,7 @@ vector: hospital.svg
 <li>access details of prior checks</li>
 </ul>
 </div>
-<div class="col-lg-4 col-12"><img style="max-height: 300px;
+<div class="col-lg-4 col-12"><img style="
     width: initial;" src="/assets/img/images/CWR_IphnX-copy.png"></div> 
 
 <div class="col-12"><hr/></div> 
@@ -54,7 +54,6 @@ vector: hospital.svg
 <div class="casecta text-center">
 <h2>Download now for a free trial</h2>
 <h3>Minimise your risk of fine and non-compliance</h3>
-<p>No lock in contracts - Check as many or as few visa holders as you like - Save time</p>
     
     <form id="subForm" class="js-cm-form" action="https://www.createsend.com/t/subscribeerror?description=" method="post" data-id="30FEA77E7D0A9B8D7616376B90063231CAA3751A5F0EE694C7DB0443F4A3D352CF8E9AEFBD18AFA098D6D01843F1FA243E1C7D2512F4669122582AAD7BC77F23">	
     <input id="fieldEmail" name="cm-zqukr-zqukr" placeholder="Enter your email to start a free trial" type="email" class="js-cm-email-input"

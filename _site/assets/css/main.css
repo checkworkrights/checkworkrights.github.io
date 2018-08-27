@@ -746,10 +746,13 @@ box-shadow: 3px 4px 17px -3px rgba(0,0,0,0.39);
 }
 .casehow .col-lg-6{
     padding:20px;
+    text-align: left;
 }
 .casehow img{
-    padding-bottom: 20px;
+    padding-bottom: 50px;
     width: 30%;
+    float: left;
+    padding-right: 20px;
 }
 .casehow hr{
     margin:3em 0;
