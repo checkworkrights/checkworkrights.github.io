@@ -22,7 +22,7 @@ vector: restaurant.svg
 </ul>
 </div>
 <div class="col-lg-4 col-12"><img style="max-height: 400px;
-    width: initial;" src="/assets/img/images/CWR_IphnX-copy.png"></div> 
+    width: initial; padding: 0;float:none;" src="/assets/img/images/CWR_IphnX-copy.png"></div> 
 
 <div class="col-12"><hr/></div> 
 <div class="col-12"><h2 class="text-center">How Can CWR Help?</h2></div>

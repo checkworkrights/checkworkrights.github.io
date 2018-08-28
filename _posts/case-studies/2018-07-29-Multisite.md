@@ -24,7 +24,7 @@ vector: multisite.svg
 <li>Deployment of Checkworkrights scanning tool to site managers in the field</li>
 </ul>
 </div>
-<div class="col-lg-4 col-12"><img style="width: initial;" src="/assets/img/images/CWR_IphnX-copy.png"></div> 
+<div class="col-lg-4 col-12"><img style="width: initial; padding: 0;float:none;" src="/assets/img/images/CWR_IphnX-copy.png"></div> 
 
 <div class="col-12"><hr/></div> 
 <div class="col-12"><h2 class="text-center">How Can CWR Help?</h2></div>
