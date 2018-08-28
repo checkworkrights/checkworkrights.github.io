@@ -4,3 +4,11 @@ url: https://www.checkworkrights.com.au
 baseurl: /
 plugins:
   - jekyll-redirect-from
+defaults:  
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      img: "CWR-linkedin-Size-1.jpg"
+      title: "Australia's Best Online Visa Management Platform | Checkworkrights"
+      description: "Reduce time spent on monitoring visa holders and minimise the risk of non compliance."
