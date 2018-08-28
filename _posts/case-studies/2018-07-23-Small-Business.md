@@ -8,7 +8,7 @@ category: case
 vector: restaurant.svg
 ---
 
- <div class="row casehow text-center">
+ <div class="row casehow text-center justify-content-center align-items-center">
 
 <div class="col-lg-8 col-12 text-left">
 <h2>Using CWR as a Small Business</h2>
