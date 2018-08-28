@@ -3,63 +3,63 @@
 
     
     <url>
-        <loc>/404.html</loc>
+        <loc>http://localhost:4000/404.html</loc>
         <lastmod>2018-08-28</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/android</loc>
+        <loc>http://localhost:4000/android</loc>
         <lastmod>2018-08-28</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/contact</loc>
+        <loc>http://localhost:4000/contact</loc>
         <lastmod>2018-08-28</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/</loc>
+        <loc>http://localhost:4000/</loc>
         <lastmod>2018-08-28</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/iphone</loc>
+        <loc>http://localhost:4000/iphone</loc>
         <lastmod>2018-08-28</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/policies/</loc>
+        <loc>http://localhost:4000/policies/</loc>
         <lastmod>2018-08-28</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/sitemap.xml</loc>
+        <loc>http://localhost:4000/sitemap.xml</loc>
         <lastmod>2018-08-28</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/support/</loc>
+        <loc>http://localhost:4000/support/</loc>
         <lastmod>2018-08-28</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/redirects.json</loc>
+        <loc>http://localhost:4000/redirects.json</loc>
         <lastmod>2018-08-28</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
@@ -68,77 +68,77 @@
 
     
     <url>
-        <loc>/how-to-employ-legal-workers</loc>
+        <loc>http://localhost:4000/how-to-employ-legal-workers</loc>
         <lastmod>2018-08-28</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/temporary-visa-work-rights</loc>
+        <loc>http://localhost:4000/temporary-visa-work-rights</loc>
         <lastmod>2018-08-28</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/working-holiday-makers</loc>
+        <loc>http://localhost:4000/working-holiday-makers</loc>
         <lastmod>2018-08-28</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/case-studies/multisite</loc>
+        <loc>http://localhost:4000/case-studies/multisite</loc>
         <lastmod>2018-08-28</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/bridging-visas</loc>
+        <loc>http://localhost:4000/bridging-visas</loc>
         <lastmod>2018-08-28</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/resources/what-documents</loc>
+        <loc>http://localhost:4000/resources/what-documents</loc>
         <lastmod>2018-08-28</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/student-visas</loc>
+        <loc>http://localhost:4000/student-visas</loc>
         <lastmod>2018-08-28</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/policies/eula</loc>
+        <loc>http://localhost:4000/policies/eula</loc>
         <lastmod>2018-08-28</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/policies/privacy-policy</loc>
+        <loc>http://localhost:4000/policies/privacy-policy</loc>
         <lastmod>2018-08-28</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/case-studies/small-business</loc>
+        <loc>http://localhost:4000/case-studies/small-business</loc>
         <lastmod>2018-08-28</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/resources/recent-changes</loc>
+        <loc>http://localhost:4000/resources/recent-changes</loc>
         <lastmod>2018-08-28</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
