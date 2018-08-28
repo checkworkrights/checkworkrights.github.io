@@ -2,7 +2,7 @@
 title: How to Employ Legal Workers
 description: Business that have failed to comply with the requirement to employ legal workers, depending on the severity of the breach, are served warnings, infringement notices and civil penalties
 layout: legalworkers
-img: StockSnap_MRF1628S9A.jpg
+img: alex-kotliarskyi-361081-unsplash-1.jpg
 permalink: /:slug
 category: legalworkers
 ---

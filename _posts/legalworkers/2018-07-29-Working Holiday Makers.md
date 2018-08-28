@@ -2,7 +2,7 @@
 title: Employing Working Holiday Makers
 description: The Working Holiday Maker program is to encourage cultural exchange by permitting young persons to travel to Australia for an extended holiday supplemented by short term employment.
 layout: legalworkers
-img: StockSnap_MRF1628S9A.jpg
+img: anete-lusina-609863-unsplash-3.jpg
 permalink: /:slug
 category: legalworkers
 ---

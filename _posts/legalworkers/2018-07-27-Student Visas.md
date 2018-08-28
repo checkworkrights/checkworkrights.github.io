@@ -2,7 +2,7 @@
 title: Employing Student Visa Holders
 description: From 1 July 2016, all international students apply for a single Student visa (subclass 500) regardless of the chosen course of study, which can include higher education, postgraduate, and vocational courses.  
 layout: legalworkers
-img: StockSnap_MRF1628S9A.jpg
+img: mikael-kristenson-242070-unsplash-4.jpg
 permalink: /:slug
 category: legalworkers
 ---

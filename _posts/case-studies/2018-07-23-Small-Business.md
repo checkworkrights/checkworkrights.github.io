@@ -2,7 +2,7 @@
 title: Easy VEVO Checks for Hospitality and Retail 
 description: We know that it is difficult to keep track of compliance in a small business. No HR Team, not core business, compliance doesn’t make you money
 layout: cases
-img: StockSnap_HVO2JX4B6R.jpg
+img: nick-karvounis-624439-unsplash-2.jpg
 permalink: /case-studies/:slug
 category: case
 vector: restaurant.svg
