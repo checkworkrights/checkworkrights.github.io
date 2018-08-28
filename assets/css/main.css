@@ -302,7 +302,7 @@ textarea {
 footer ul{list-style-type: none;padding:0;}
 footer {
     border-bottom: 20px solid var(--blue);
-    background-blend-mode: screen;
+    background-blend-mode: overlay;
     background-image: url(/assets/img/images/lfv0v3_2h6s-mike-kononov.jpg)!important;
     background-repeat: no-repeat;
     background-size: cover;
@@ -803,7 +803,7 @@ box-shadow: 3px 4px 17px -3px rgba(0,0,0,0.39);
         margin-top: 20px;
 }
 #casestudies .tile{
-    background-blend-mode: exclusion;
+    background-blend-mode: soft-light;
     background: url(/assets/img/images/splash4.jpg) no-repeat top,linear-gradient(113deg,rgba(47, 64, 82,0.95) 54%,rgba(47, 64, 82,0.95) 100%);
     background-size: cover;
     color: white;
