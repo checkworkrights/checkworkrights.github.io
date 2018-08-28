@@ -2,7 +2,7 @@
 title: What Documents Do I Need To Check?
 description: Australian Employers have a legal obligation to ensure that non-Australian Citizens have a right to work in Australia.  Usually, when checking work rights, one of the following documents from a non-Australian Citizen employee or prospective employee would be required.
 layout: resources
-img: StockSnap_MRF1628S9A.jpg
+img: nicole-harrington-62045-unsplash.jpg
 permalink: /resources/:slug
 category: resources
 ---

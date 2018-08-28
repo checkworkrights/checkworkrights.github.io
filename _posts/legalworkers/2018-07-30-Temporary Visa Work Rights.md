@@ -2,7 +2,7 @@
 title: Which Temporary Visas Have Work Rights? 
 description: With many temporary visa holders now entering the Australian workforce, it is important for Australian businesses to understand which visa holders’ have work rights in Australia, and the conditions attached to each visa.
 layout: legalworkers
-img: StockSnap_MRF1628S9A.jpg
+img: anthony-ginsbrook-678771-unsplash.jpg
 permalink: /:slug
 category: legalworkers
 ---

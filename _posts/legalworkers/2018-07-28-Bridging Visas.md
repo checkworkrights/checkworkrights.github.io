@@ -2,7 +2,7 @@
 title: Employing Bridging Visa Holders
 description: The number of people who hold bridging visas has hit a historic high this year. At the end of March 2018, 194,475 people with bridging visas were in Australia.
 layout: legalworkers
-img: StockSnap_MRF1628S9A.jpg
+img: alvaro-reyes-500044-unsplash.jpg
 permalink: /:slug
 category: legalworkers
 ---
