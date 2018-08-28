@@ -1,6 +1,6 @@
 name: CheckWorkRights
 title: CheckWorkRights
-url: https://www.checkworkrights.com
+url: https://www.checkworkrights.com.au
 baseurl: /
 plugins:
   - jekyll-redirect-from
