@@ -718,6 +718,9 @@ font-size: 1.6rem;
     margin: 20px;
     filter: brightness(110%) saturate(20%);
 }
+#clients .logo-nf{
+    filter:none !important;
+}
 .tile{
 padding: 40px;
 margin:10px;
