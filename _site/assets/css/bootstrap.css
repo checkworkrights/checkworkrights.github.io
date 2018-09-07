@@ -3161,7 +3161,6 @@ input[type="button"].btn-block {
   font-weight: 300;
   color: #212529;
   text-align: inherit;
-  white-space: nowrap;
   background-color: transparent;
   border: 0;
   transition: all 0.2s;

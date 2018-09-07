@@ -818,3 +818,20 @@ color:var(--green);
 #navbar .login:hover{
 color:var(--white);
 }
+.wicsta{
+    background:rgba(38,176,146,0.05);
+    margin-bottom:30px;
+}
+.wicsta a{
+    text-decoration: none !important;
+}
+.wicsta p{
+    text-align: left;
+}
+.wicsta h2{
+    font-weight: 300;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    color: var(--green);
+    text-align: left;
+}
