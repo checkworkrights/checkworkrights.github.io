@@ -491,15 +491,7 @@ box-shadow: 3px 4px 17px -3px rgba(0,0,0,0.39);
     margin-right: auto;
     border-radius: 3px;
 }
-/* Media */
-#media img{
-padding:20px;
-margin-bottom:10px;
-    transition: all 0.2s;
-}
-#media img:hover{
-    background-color:rgba(255,255,255,0.1);
-}
+
 /* Demo Button */
 .btn-demo{
     position: fixed;
@@ -636,11 +628,10 @@ font-size: 1.6rem;
 }
 /* Legal / Policies Pags */
 
-#legal .container-fluid{
+#legal .container-fluid:first-child{
     padding-top: 100px;
     padding-bottom: 100px;
     background-color:var(--blue);
-    background-image: url(https://www.checkworkrights.com.au/wp-content/uploads/2016/07/prlx.jpg)!important;
         background-position: center;
     -webkit-background-size: 100%;
     -webkit-background-size: cover;
@@ -660,6 +651,13 @@ font-size: 1.6rem;
         margin-bottom: 40px;
         margin-top: 10px;
         color:var(--green);
+}
+.legaltitle{
+    color:var(--green);
+}
+.legaldate{
+    font-size: 0.8rem;
+    color:var(--gray);
 }
 #policy .container-fluid{
     overflow: hidden;
@@ -819,8 +817,8 @@ color:var(--green);
 color:var(--white);
 }
 .wicsta{
-    background:rgba(38,176,146,0.05);
-    margin-bottom:30px;
+    background:rgba(38,176,146,0.05) !important;
+    padding: 6% 0%;
 }
 .wicsta a{
     text-decoration: none !important;
@@ -834,4 +832,39 @@ color:var(--white);
     text-transform: uppercase;
     color: var(--green);
     text-align: left;
+}
+.article-body img{
+    border: 1px solid var(--gray);
+    border-radius: 5px;
+    padding:10px;
+}
+#resources .resbody{
+          padding-top: 50px;
+    padding-bottom: 50px;
+    background-color:rgba(47, 64, 82,0.95);
+        background-position: center;
+    -webkit-background-size: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: 100%;
+    -moz-background-size: cover;
+    background-size: 100%;
+    background-size: cover; 
+}
+#resources .reshead{
+          padding-top: 60px;
+    padding-bottom: 60px;
+        background-image: linear-gradient(100deg,rgba(41,196,169,0.3) 19%,rgba(26,36,46,0.5) 68%), url(/assets/img/images/hhcn6yy3uo8-cory-schadt.jpg);
+      background-repeat: no-repeat;
+  background-position: center;
+      background-size: cover;
+}
+#resources h1{
+    padding:0;
+}
+#resources h3{
+    color:var(--green);
+}
+.resdate{
+    font-size: 0.8rem;
+    color:var(--gray);
 }

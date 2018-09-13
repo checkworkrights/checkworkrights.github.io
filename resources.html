@@ -1,0 +1,27 @@
+---
+title: Visa Resources and Information
+description:
+layout: default
+permalink: /resources/
+---
+<section id="resources">
+      <div class="container-fluid reshead" style="background-image: linear-gradient(100deg,rgba(41,196,169,0.3) 19%,rgba(26,36,46,0.5) 68%), url(/assets/img/images/nicole-harrington-62045-unsplash.jpg); ">
+          <div class="row justify-content-center">
+              <div class="col-12 col-lg-9 text-center tile">
+                <h1>Visa Resources and Information</h1>
+              </div>
+          </div>
+    </div>
+        <div class="container-fluid resbody">
+          <div class="row justify-content-center">
+              {% for post in site.categories.resources %}
+              <div class="col-lg-9 col-12 text-left tile"><a href="{{ post.url }}">
+                  <h3 class="restitle">{{ post.title }}</h3>
+                  <p class="resdate">{{post.date | date_to_long_string}}</p>
+                  <p class="resdesc">{{ post.description }}</p>
+                  </a></div>
+              {% endfor %}
+          </div>
+      </div>
+    {% include whatiscwr.html%}
+    </section>

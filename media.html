@@ -1,0 +1,27 @@
+---
+title: Checkworkrights in the Media
+description:
+layout: default
+permalink: /media/
+---
+<section id="resources">
+      <div class="container-fluid reshead">
+          <div class="row justify-content-center">
+              <div class="col-12 col-lg-9 text-center tile">
+                <h1>Checkworkrights in the Media</h1>
+              </div>
+          </div>
+    </div>
+        <div class="container-fluid resbody">
+          <div class="row justify-content-center">
+              {% for post in site.categories.media %}
+              <div class="col-lg-9 col-12 text-left tile"><a href="{{ post.url }}">
+                  <h3 class="restitle">{{ post.title }}</h3>
+                  <p class="resdate">{{post.date | date_to_long_string}}</p>
+                  <p class="resdesc">{{ post.description }}</p>
+                  </a></div>
+              {% endfor %}
+          </div>
+      </div>
+    {% include whatiscwr.html%}
+    </section>
