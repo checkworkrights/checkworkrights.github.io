@@ -816,17 +816,17 @@ color:var(--green);
 #navbar .login:hover{
 color:var(--white);
 }
-.wicsta{
+.wiscta{
     background:rgba(38,176,146,0.05) !important;
-    padding: 6% 0%;
+    padding: 6%;
 }
-.wicsta a{
+.wiscta a{
     text-decoration: none !important;
 }
-.wicsta p{
+.wiscta p{
     text-align: left;
 }
-.wicsta h2{
+.wiscta h2{
     font-weight: 300;
     font-size: 1.5rem;
     text-transform: uppercase;
