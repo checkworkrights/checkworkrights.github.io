@@ -173,6 +173,34 @@
     </url>
     
     <url>
+        <loc>http://localhost:4000/media/hrdaily-new-app</loc>
+        <lastmod>2018-09-13</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/media/food-service-newapp</loc>
+        <lastmod>2018-09-13</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/media/bi-tech-startups</loc>
+        <lastmod>2018-09-13</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/media/bi-workrights-app</loc>
+        <lastmod>2018-09-13</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/resources/recent-changes</loc>
         <lastmod>2018-09-13</lastmod>
         <changefreq>daily</changefreq>
