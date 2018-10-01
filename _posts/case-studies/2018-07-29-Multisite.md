@@ -29,22 +29,22 @@ vector: multisite.svg
 <div class="col-12"><hr/></div> 
 <div class="col-12"><h2 class="text-center">How Can CWR Help?</h2></div>
 <div class="col-lg-6 col-12 text-left">
-<img src="/assets/img/vectors/smartphone.svg">
+<img src="https://res.cloudinary.com/tssimmi/image/fetch/https://www.checkworkrights.com.au/assets/img/vectors/smartphone.svg">
 <h4>Simplified On-boarding Process</h4> 
 <p>Site managers scan employee passports with our smartphone app, receiving a visa result and confirmation of work rights on the spot</p>
 </div>
 <div class="col-lg-6 col-12">
-<img src="/assets/img/vectors/calendar.svg">
+<img src="https://res.cloudinary.com/tssimmi/image/fetch/https://www.checkworkrights.com.au/assets/img/vectors/calendar.svg">
 <h4>Automated Ongoing Checks</h4>
 <p>The details of the initial check are stored and rechecked regularly to maintain on-going workplace entitlement for the duration of their employment</p>
 </div>
 <div class="col-lg-6 col-12">
-<img src="/assets/img/vectors/analytics.svg">
+<img src="https://res.cloudinary.com/tssimmi/image/fetch/https://www.checkworkrights.com.au/assets/img/vectors/analytics.svg">
 <h4>Centralised Records and Reports</h4>
 <p>Multisite managers access secure reports on the status of work rights across the entire business, giving the visibility needed to make informed strategic decisions</p>
 </div>
 <div class="col-lg-6 col-12">
-<img src="/assets/img/vectors/sharing.svg">
+<img src="https://res.cloudinary.com/tssimmi/image/fetch/https://www.checkworkrights.com.au/assets/img/vectors/sharing.svg">
 <h4>Bespoke API Integration</h4>
 <p>With a robust API and Web hooks, Checkworkrights can be integrated seamlessly into your existing HR management system</p>
 </div>

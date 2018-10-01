@@ -13,4 +13,4 @@ CWR Director Will Aldous recently met with to HRM to set the record straight on 
 
 [Read the article in full on the HRM Website](https://www.hrmonline.com.au/section/strategic-hr/3-common-visa-misconceptions/)
 
-[![AHRI / AHM checkworkrights](/assets/img/images/ahri-visa-misconceptions.png)](https://www.hrmonline.com.au/section/strategic-hr/3-common-visa-misconceptions/)
+[![AHRI / AHM checkworkrights](https://res.cloudinary.com/tssimmi/image/fetch/https://www.checkworkrights.com.au/assets/img/images/ahri-visa-misconceptions.png)](https://www.hrmonline.com.au/section/strategic-hr/3-common-visa-misconceptions/)

@@ -17,4 +17,4 @@ For us educating hospitality businesses around the penalties of non-compliance i
 
 [Read the article in full on the Food Service Website](http://www.foodservicenews.com.au/products/new-app-checkworkrights-helps-to-hire-and-manage-staff-on-working-visas)
 
-[![AHRI / AHM checkworkrights](/assets/img/images/FoodService-newapp.png)](http://www.foodservicenews.com.au/products/new-app-checkworkrights-helps-to-hire-and-manage-staff-on-working-visas)
+[![AHRI / AHM checkworkrights](https://res.cloudinary.com/tssimmi/image/fetch/https://www.checkworkrights.com.au/assets/img/images/FoodService-newapp.png)](http://www.foodservicenews.com.au/products/new-app-checkworkrights-helps-to-hire-and-manage-staff-on-working-visas)

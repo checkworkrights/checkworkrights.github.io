@@ -13,4 +13,4 @@ Touching on a variety of issues including ongoing compliance, work rights checki
 
 [Read the article in full on the Aged Care Institute Website.](https://www.agedcareinsite.com.au/2018/09/ticking-the-right-boxes-when-employing-overseas-staff/)
 
-[![Aged Care Institute Australia](/assets/img/images/aged-care-institute.png)](https://www.agedcareinsite.com.au/2018/09/ticking-the-right-boxes-when-employing-overseas-staff/)
+[![Aged Care Institute Australia](https://res.cloudinary.com/tssimmi/image/fetch/https://www.checkworkrights.com.au/assets/img/images/aged-care-institute.png)](https://www.agedcareinsite.com.au/2018/09/ticking-the-right-boxes-when-employing-overseas-staff/)

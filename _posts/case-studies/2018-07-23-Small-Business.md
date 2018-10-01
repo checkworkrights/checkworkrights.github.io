@@ -27,22 +27,22 @@ vector: restaurant.svg
 <div class="col-12"><hr/></div> 
 <div class="col-12"><h2 class="text-center">How Can CWR Help?</h2></div>
 <div class="col-lg-6 col-12">
-<img src="/assets/img/vectors/smartphone.svg">
+<img src="https://res.cloudinary.com/tssimmi/image/fetch/https://www.checkworkrights.com.au/assets/img/vectors/smartphone.svg">
 <h4>Quick Checking Process</h4> 
 <p>Scanning a passport with your smartphone will return a VEVO result in a few seconds</p>
 </div>
 <div class="col-lg-6 col-12">
-<img src="/assets/img/vectors/invoice.svg">
+<img src="https://res.cloudinary.com/tssimmi/image/fetch/https://www.checkworkrights.com.au/assets/img/vectors/invoice.svg">
 <h4>Low Cost Solution</h4>
 <p>Price per check is $2, paid directly through the app</p>
 </div>
 <div class="col-lg-6 col-12">
-<img src="/assets/img/vectors/brainstorm.svg">
+<img src="https://res.cloudinary.com/tssimmi/image/fetch/https://www.checkworkrights.com.au/assets/img/vectors/brainstorm.svg">
 <h4>Easy Of Use</h4>
 <p>Intuitive and simple user interface available for iPhone and Android</p>
 </div>
 <div class="col-lg-6 col-12">
-<img src="/assets/img/vectors/calendar.svg">
+<img src="https://res.cloudinary.com/tssimmi/image/fetch/https://www.checkworkrights.com.au/assets/img/vectors/calendar.svg">
 <h4>Automated Ongoing Checks</h4>
 <p>Keeps you compliant and saves you time. Alerts and reports sent automatically.</p>
 </div>
