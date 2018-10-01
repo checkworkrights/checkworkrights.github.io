@@ -869,3 +869,6 @@ color:var(--white);
     font-size: 0.8rem;
     color:var(--gray);
 }
+.ensure-white{
+    color: white !important;
+}
