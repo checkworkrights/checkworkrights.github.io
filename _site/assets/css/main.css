@@ -837,6 +837,7 @@ color:var(--white);
     border: 1px solid var(--gray);
     border-radius: 5px;
     padding:10px;
+    max-width: 100%;
 }
 #resources .resbody{
           padding-top: 50px;
@@ -867,4 +868,7 @@ color:var(--white);
 .resdate{
     font-size: 0.8rem;
     color:var(--gray);
+}
+.ensure-white{
+    color: white !important;
 }
