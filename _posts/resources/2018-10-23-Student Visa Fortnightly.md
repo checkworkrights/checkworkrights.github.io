@@ -2,7 +2,7 @@
 title: Your Current Method for Rostering Student Visa Holders May Put Your Business At Risk
 description: Problems caused by the Government definition of a fortnight are something many employers and visa holders may not be aware of
 layout: resources
-img: wes-hicks-480398-unsplash.jpg
+img: wes-hicks-480398-unsplash123.jpg
 permalink: /resources/:slug
 category: resources
 
