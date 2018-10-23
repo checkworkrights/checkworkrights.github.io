@@ -374,6 +374,8 @@ display:none;
     .navbar{
         padding: 1rem;
    }
+    .tile{
+        padding: 20px !important;}
 }
 .bluebg{
     background-color:var(--blue);
@@ -761,8 +763,27 @@ font-size: 1.6rem;
 #policy .container{
     padding-top: 30px;
 }
+#policy a{
+    text-decoration: underline;
+}
+#policy a:hover{
+    text-decoration: none;
+}
+@media (max-width:576px){
+#policy h1, #legalworkers h1, #resources h1, #cases h1{
+    text-align: left;
+    font-size: 2rem;
+}
+    #cases h3{
+        text-align: left;
+    }
+}
 #policy h3{
-    font-weight:500;
+    font-weight:300;
+    font-size: 1.5rem;
+     text-transform: uppercase;
+    color:var(--green);
+    text-align: left;
 }
 #legalworkers .container-fluid{
     overflow: hidden;
@@ -965,4 +986,10 @@ color:var(--white);
 }
 .ensure-white{
     color: white !important;
+}
+blockquote{
+    border-left:solid 6px var(--green);
+    padding-left:20px;
+    font-style: italic;
+    margin-left: 20px;
 }
