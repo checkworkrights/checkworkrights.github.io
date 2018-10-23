@@ -8,10 +8,10 @@ category: resources
 
 ---
 
-As many employers of visa holders are aware, most Australian Student Visa holders have work rights limited to 40 hours per fortnight. This regularly presents rostering issues for employers and workers alike, but problems caused by the Government definition of a fortnight is something many employers and visa holders may not be aware of. 
+As many employers of visa holders are aware, most Australian Student Visa holders have work rights limited to 40 hours per fortnight. This regularly presents rostering issues for employers and workers alike, but problems caused by the Government definition of a fortnight are something many employers and visa holders may not be aware of. 
 
 ### The Problem with a Fortnightly Pay Cycle
-Many businesses work on a fortnightly rostering and payment cycle and most payroll and rostering software platforms follow this fortnightly pattern. However, from the perspective of The Department of Immigration in a four week period there are actually three fortnights. This is where the confusion begins.
+Many businesses work on a fortnightly rostering and payment cycle and most payroll and rostering software platforms follow this fortnightly pattern. However, from the perspective of The Department of Immigration in a four week period, there are actually three fortnights. This is where the confusion begins.
 
 Imagine the two scenarios below, both time sheets for a one month period submitted by Student Visa holding employees:
 
@@ -38,10 +38,10 @@ This pitfall stems from The Department's policy definition of a fortnightly peri
 >+ relates to each fortnight during which the course of study or training is in session
 >+ cannot be averaged out over the duration of the course.
 
-In simplest terms The Department calculates 'rolling fortnights' as any 14 day period commencing on a Monday (as opposed to 'subsequent fortnights' calculated back to back). 
+In simplest terms, The Department calculates 'rolling fortnights' as any 14 day period commencing on a Monday (as opposed to 'subsequent fortnights' calculated back to back). 
 
 ### Avoiding the Pitfalls of the Rolling Fortnight
-This 'rolling fortnight' issue is something very few businesses HR systems are set up to account for. As as result it is likely the many businesses are unaware that they are routinely breaching their workers visa conditions. 
+This 'rolling fortnight' issue is something very few businesses HR systems are set up to account for. As a result it is likely the many businesses are unaware that they are routinely breaching their worker's visa conditions. 
 
 This common misconception can present a large financial and reputational risk to businesses employing visa holders, especially with the current scrutiny upon visa employers from The Press and The Department of Immigration.
 
