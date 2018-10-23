@@ -1,0 +1,55 @@
+<ul id="clientcarousel"> 
+    {% for client in site.data.clients %}
+    <li><img src="/assets/img/clients/{{client.img}}" alt="{{client.name}} Logo" {% if client.class %} class="{{client.class}}" {% endif %} /></li>{% endfor %}                                                 
+</ul>
+       
+<div class="clearout"></div>
+
+<script type="text/javascript">
+
+$(window).on('load', function() {
+    
+    $("#clientcarousel").flexisel({
+        visibleItems: 4,
+        itemsToScroll: 4,
+        infinite: true,
+        animationSpeed: 800,
+        autoPlay: {
+            enable: true,
+            interval: 4000,
+            pauseOnHover: true
+        },
+        responsiveBreakpoints: { 
+            portrait: { 
+                changePoint:480,
+                visibleItems: 1,
+                itemsToScroll: 1
+            }, 
+            landscape: { 
+                changePoint:640,
+                visibleItems: 2,
+                itemsToScroll: 2
+            },
+            tablet: { 
+                changePoint:768,
+                visibleItems: 3,
+                itemsToScroll: 3
+            }
+        },
+        loaded: function(object) {
+            console.log('Slider loaded...');
+        },
+        before: function(object){
+            console.log('Before transition...');
+        },
+        after: function(object) {
+            console.log('After transition...');
+        },
+        resize: function(object){
+            console.log('After resize...');
+        }
+    });
+      
+    
+});
+</script>

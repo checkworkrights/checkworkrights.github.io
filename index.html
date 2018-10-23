@@ -198,22 +198,12 @@ In the last 3 years 1,486 Illegal Worker Warning Notices were issued by the Depa
         <h2>Checkworkrights Clients</h2>
       </div>
         <div class="col-12 col-lg-10 text-center">
-        <img src="/assets/img/blank.png" alt="Caltex Logo" data-echo="/assets/img/clients/Caltex-logo-01.png">
-        <img src="/assets/img/blank.png" alt="Davies Logo" data-echo="/assets/img/clients/Davies-logo-02.png">
-        <img src="/assets/img/blank.png" alt="Hungry Jacks Logo" data-echo="/assets/img/clients/Hungry-Jacks-logo-03.png">
-        <img src="/assets/img/blank.png" alt="ISS Logo" data-echo="/assets/img/clients/ISS-logo-04.png">
-        <img src="/assets/img/blank.png" alt="McDonalds Logo" data-echo="/assets/img/clients/McDonalds-logo-05.png">
-        <img src="/assets/img/blank.png" alt="Pattisons Logo" data-echo="/assets/img/clients/Pattisons-logo-06.png">
-        <img src="/assets/img/blank.png" alt="Urban Global Logo" data-echo="/assets/img/clients/urban-global-logo.png">
-        <img src="/assets/img/blank.png" alt="Epworth Logo" data-echo="/assets/img/clients/Epworth-logo-11.png">
-        <img src="/assets/img/blank.png" alt="St Vincents Logo" data-echo="/assets/img/clients/logo-svcs.png">
-        <img src="/assets/img/blank.png" class="smallimg" alt="Hudson Logo" data-echo="/assets/img/clients/Hudson-logo-07.png">
-        <img src="/assets/img/blank.png" class="smallimg" alt="Delaware Logo" data-echo="/assets/img/clients/Delaware-logo-08.png">
-        <img src="/assets/img/blank.png" alt="City Holdings Logo" data-echo="/assets/img/clients/City-Holdings-logo2.png">
+    {% for client in site.data.clients %}
+    <img src="/assets/img/blank.png" alt="{{client.name}} Logo" {% if client.class %} class="{{client.class}}" {% endif %} data-echo="/assets/img/clients/{{client.img}}" />{% endfor %}    
         <!--img src="/assets/img/blank.png" alt="Cabrini Logo" data-echo="/assets/img/clients/Cabrini-logo.png">
         <img src="/assets/img/blank.png" alt="Monash Logo" data-echo="/assets/img/clients/Monash-logo.png">
         <img src="/assets/img/blank.png" alt="Minor Hotels Logo" data-echo="/assets/img/clients/MinorHotels-logo.png">
-        <img src="/assets/img/blank.png" alt="Oaks Hotels Logo" data-echo="/assets/img/clients/Oaks-Hotels-logo.png">-->
+        <img src="/assets/img/blank.png" alt="Oaks Hotels Logo" data-echo="/assets/img/clients/Oaks-Hotels-logo.png">--> 
     </div>
   </div>
     

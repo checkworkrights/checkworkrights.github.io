@@ -1,0 +1,27 @@
+- name: Caltex
+  img: Caltex-logo-01.png
+- name: Davies Bakery
+  img: Davies-logo-02.png
+- name: Hungry Jacks
+  img: Hungry-Jacks-logo-03.png
+- name: ISS
+  img: ISS-logo-04.png
+- name: McDonalds
+  img: McDonalds-logo-05.png
+- name: Pattisons
+  img: Pattisons-logo-06.png
+- name: Urban Global
+  img: urban-global-logo.png
+- name: Epworth
+  img: Epworth-logo-11.png
+- name: St Vincents
+  img: logo-svcs.png
+- name: Hudson
+  img: Hudson-logo-07.png  
+  class: smallimg
+- name: Delaware
+  img: Delaware-logo-08.png  
+  class: smallimg
+- name: City Holdings
+  img: City-Holdings-logo2.png
+  class: smallimg
