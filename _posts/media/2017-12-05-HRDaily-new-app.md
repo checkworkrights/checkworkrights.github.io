@@ -13,4 +13,4 @@ To assist with the launch of checkworkrights on the Apple and Android App Stores
 
 [Read the article in full on the HR Daily Website](https://hrdaily.com.au/nl06_news_selected.php?selkey=4893)
 
-[![AHRI / AHM checkworkrights](https://res.cloudinary.com/tssimmi/image/fetch/https://www.checkworkrights.com.au/assets/img/images/HR-Daily-newapp.png)](https://hrdaily.com.au/nl06_news_selected.php?selkey=4893)
+[![AHRI / AHM checkworkrights](https://res.cloudinary.com/tssimmi/image/fetch/f_auto,q_auto/c_scale,w_auto,dpr_auto/https://www.checkworkrights.com.au/assets/img/images/HR-Daily-newapp.png)](https://hrdaily.com.au/nl06_news_selected.php?selkey=4893)

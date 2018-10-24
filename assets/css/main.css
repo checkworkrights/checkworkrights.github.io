@@ -396,7 +396,7 @@ footer ul{list-style-type: none;padding:0;}
 footer {
     border-bottom: 20px solid var(--blue);
     background-blend-mode: overlay;
-    background-image: url(https://res.cloudinary.com/tssimmi/image/fetch/https://www.checkworkrights.com.au/assets/img/images/lfv0v3_2h6s-mike-kononov.jpg)!important;
+    background-image: url(https://res.cloudinary.com/tssimmi/image/fetch/f_auto,q_auto/c_scale,w_auto,dpr_auto/https://www.checkworkrights.com.au/assets/img/images/lfv0v3_2h6s-mike-kononov.jpg)!important;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -423,7 +423,7 @@ footer h3{color:var(--green);}
     color:var(--white);
     background-blend-mode: overlay;
     background-color: initial!important;
-    background: url(https://res.cloudinary.com/tssimmi/image/fetch/https://www.checkworkrights.com.au/assets/img/images/splash4.jpg) no-repeat top,linear-gradient(113deg,rgba(26,36,46,0.5) 67%,#1D8770 100%);
+    background: url(https://res.cloudinary.com/tssimmi/image/fetch/f_auto,q_auto/c_scale,w_auto,dpr_auto/https://www.checkworkrights.com.au/assets/img/images/splash4.jpg) no-repeat top,linear-gradient(113deg,rgba(26,36,46,0.5) 67%,#1D8770 100%);
     background-size: cover;
     z-index:2;
     min-height: 40vh;
@@ -457,7 +457,7 @@ video {
 }
 /* Features */
 #features{
-background: linear-gradient(100deg,rgba(41,196,169,0.5) 19%,rgba(26,36,46,0.5) 68%), url(https://res.cloudinary.com/tssimmi/image/fetch/https://www.checkworkrights.com.au/assets/img/images/hhcn6yy3uo8-cory-schadt.jpg) no-repeat center;
+background: linear-gradient(100deg,rgba(41,196,169,0.5) 19%,rgba(26,36,46,0.5) 68%), url(https://res.cloudinary.com/tssimmi/image/fetch/f_auto,q_auto/c_scale,w_auto,dpr_auto/https://www.checkworkrights.com.au/assets/img/images/hhcn6yy3uo8-cory-schadt.jpg) no-repeat center;
     background-position: center;
         -webkit-background-size: 100%;
     -webkit-background-size: cover;
@@ -527,7 +527,7 @@ background: linear-gradient(100deg,rgba(41,196,169,0.5) 19%,rgba(26,36,46,0.5) 6
 /* smartphone */
 #smartphone{
     background-blend-mode: darken;
-    background-image: url(https://res.cloudinary.com/tssimmi/image/fetch/https://www.checkworkrights.com.au/assets/img/images/aete6tuebck-gerrit-vermeulen.jpg);
+    background-image: url(https://res.cloudinary.com/tssimmi/image/fetch/f_auto,q_auto/c_scale,w_auto,dpr_auto/https://www.checkworkrights.com.au/assets/img/images/aete6tuebck-gerrit-vermeulen.jpg);
     background-color: rgba(77,141,193,0.48);
     background-position: center;
         -webkit-background-size: 100%;
@@ -543,7 +543,7 @@ background: linear-gradient(100deg,rgba(41,196,169,0.5) 19%,rgba(26,36,46,0.5) 6
 }
 /* Testimonial */
 #testimonials{
-    background-image: url(https://res.cloudinary.com/tssimmi/image/fetch/https://www.checkworkrights.com.au/assets/img/images/qhnc70oivwq-martin-ezequiel-sanchez.jpg);
+    background-image: url(https://res.cloudinary.com/tssimmi/image/fetch/f_auto,q_auto/c_scale,w_auto,dpr_auto/https://www.checkworkrights.com.au/assets/img/images/qhnc70oivwq-martin-ezequiel-sanchez.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -614,7 +614,7 @@ box-shadow: 0px 0px 0px 8px rgba(38,176,146,0.3);
     color:var(--dark);
     background-blend-mode: darken;
     background-color: initial!important;
-    background: url(https://res.cloudinary.com/tssimmi/image/fetch/https://www.checkworkrights.com.au/assets/img/images/splash4.jpg) no-repeat top,linear-gradient(113deg,rgba(70,106,168,0.8) 54%,#29c4a9 100%);
+    background: url(https://res.cloudinary.com/tssimmi/image/fetch/f_auto,q_auto/c_scale,w_auto,dpr_auto/https://www.checkworkrights.com.au/assets/img/images/splash4.jpg) no-repeat top,linear-gradient(113deg,rgba(70,106,168,0.8) 54%,#29c4a9 100%);
     background-size: cover;
 
 }
@@ -657,7 +657,7 @@ box-shadow: 0px 0px 0px 8px rgba(38,176,146,0.3);
     color:var(--dark);
     background-blend-mode: darken;
     background-color: initial!important;
-    background: url(https://res.cloudinary.com/tssimmi/image/fetch/https://www.checkworkrights.com.au/assets/img/images/splash4.jpg) no-repeat top,linear-gradient(113deg,rgba(70,106,168,0.8) 54%,#29c4a9 100%);
+    background: url(https://res.cloudinary.com/tssimmi/image/fetch/f_auto,q_auto/c_scale,w_auto,dpr_auto/https://www.checkworkrights.com.au/assets/img/images/splash4.jpg) no-repeat top,linear-gradient(113deg,rgba(70,106,168,0.8) 54%,#29c4a9 100%);
     background-size: cover;
         padding-bottom: 100px;
 }
@@ -920,7 +920,7 @@ box-shadow: 3px 4px 17px -3px rgba(0,0,0,0.39);
 }
 #casestudies .tile{
     background-blend-mode: soft-light;
-    background: url(https://res.cloudinary.com/tssimmi/image/fetch/https://www.checkworkrights.com.au/assets/img/images/splash4.jpg) no-repeat top,linear-gradient(113deg,rgba(47, 64, 82,0.95) 54%,rgba(47, 64, 82,0.95) 100%);
+    background: url(https://res.cloudinary.com/tssimmi/image/fetch/f_auto,q_auto/c_scale,w_auto,dpr_auto/https://www.checkworkrights.com.au/assets/img/images/splash4.jpg) no-repeat top,linear-gradient(113deg,rgba(47, 64, 82,0.95) 54%,rgba(47, 64, 82,0.95) 100%);
     background-size: cover;
     color: white;
     text-shadow: 2px 2px 7px #000000;
@@ -969,7 +969,7 @@ color:var(--white);
 #resources .reshead{
           padding-top: 60px;
     padding-bottom: 60px;
-        background-image: linear-gradient(100deg,rgba(41,196,169,0.3) 19%,rgba(26,36,46,0.5) 68%), url(https://res.cloudinary.com/tssimmi/image/fetch/https://www.checkworkrights.com.au/assets/img/images/hhcn6yy3uo8-cory-schadt.jpg);
+        background-image: linear-gradient(100deg,rgba(41,196,169,0.3) 19%,rgba(26,36,46,0.5) 68%), url(https://res.cloudinary.com/tssimmi/image/fetch/f_auto,q_auto/c_scale,w_auto,dpr_auto/https://www.checkworkrights.com.au/assets/img/images/hhcn6yy3uo8-cory-schadt.jpg);
       background-repeat: no-repeat;
   background-position: center;
       background-size: cover;

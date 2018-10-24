@@ -27,7 +27,7 @@ Dependants of PhD and master’s students are able to work fulltime once the cou
 
 There has been a significant increase in the student visa cancellations in the last five years.
 
-![Student Visa Cancellations 2011-2017](https://res.cloudinary.com/tssimmi/image/fetch/https://www.checkworkrights.com.au/assets/img/images/studentvisacancel.png "Student Visa Cancellations 2011-2017")
+![Student Visa Cancellations 2011-2017](https://res.cloudinary.com/tssimmi/image/fetch/f_auto,q_auto/c_scale,w_auto,dpr_auto/https://www.checkworkrights.com.au/assets/img/images/studentvisacancel.png "Student Visa Cancellations 2011-2017")
 
 The reasons for cancellation include:
 

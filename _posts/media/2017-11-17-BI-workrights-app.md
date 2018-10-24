@@ -11,4 +11,4 @@ Checkworkrights appeared in Business Insider to mark it's debut on the Apple and
 
 [Read the article in full on the Business Insider Website](https://www.businessinsider.com.au/this-checkworkrights-app-judges-if-a-person-can-legally-work-in-australia-by-scanning-their-passport-visa-immigration-2017-11)
 
-[![Business Insider checkworkrights](https://res.cloudinary.com/tssimmi/image/fetch/https://www.checkworkrights.com.au/assets/img/images/2017-bi-media.png)](https://www.businessinsider.com.au/this-checkworkrights-app-judges-if-a-person-can-legally-work-in-australia-by-scanning-their-passport-visa-immigration-2017-11)
+[![Business Insider checkworkrights](https://res.cloudinary.com/tssimmi/image/fetch/f_auto,q_auto/c_scale,w_auto,dpr_auto/https://www.checkworkrights.com.au/assets/img/images/2017-bi-media.png)](https://www.businessinsider.com.au/this-checkworkrights-app-judges-if-a-person-can-legally-work-in-australia-by-scanning-their-passport-visa-immigration-2017-11)

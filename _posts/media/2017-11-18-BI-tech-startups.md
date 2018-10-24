@@ -13,4 +13,4 @@ We appreciate the opportunity to educate the wider Australian business community
 
 [Read the article in full on the Business Insider Website](https://www.businessinsider.com.au/5-things-you-need-to-know-in-australian-tech-today-v12-2017-11)
 
-[![Business Insider Tech Startups checkworkrights](https://res.cloudinary.com/tssimmi/image/fetch/https://www.checkworkrights.com.au/assets/img/images/2017-BI-Tech.png)](https://www.businessinsider.com.au/5-things-you-need-to-know-in-australian-tech-today-v12-2017-11)
+[![Business Insider Tech Startups checkworkrights](https://res.cloudinary.com/tssimmi/image/fetch/f_auto,q_auto/c_scale,w_auto,dpr_auto/https://www.checkworkrights.com.au/assets/img/images/2017-BI-Tech.png)](https://www.businessinsider.com.au/5-things-you-need-to-know-in-australian-tech-today-v12-2017-11)

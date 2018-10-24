@@ -15,4 +15,4 @@ Will discussed these trends and the effects recent legislative changes will have
 
 [Read the article in full on the Australian Leisure Management Website](https://www.ausleisure.com.au/news/legislative-changes-to-impact-summer-hiring/)
 
-[![Australian Leisure Management checkworkrights](https://res.cloudinary.com/tssimmi/image/fetch/https://www.checkworkrights.com.au/assets/img/images/ausleisure.png)](https://www.ausleisure.com.au/news/legislative-changes-to-impact-summer-hiring/)
+[![Australian Leisure Management checkworkrights](https://res.cloudinary.com/tssimmi/image/fetch/f_auto,q_auto/c_scale,w_auto,dpr_auto/https://www.checkworkrights.com.au/assets/img/images/ausleisure.png)](https://www.ausleisure.com.au/news/legislative-changes-to-impact-summer-hiring/)
