@@ -1019,7 +1019,8 @@ blockquote{
     border: 1px solid gray;
     border-radius: 3px;
     background:white;
-    width:350px;
+    max-width:350px;
+    width:100%;
 }
 #trysteps .typewriter a {
 width:20%;
