@@ -7,12 +7,14 @@ search: exclude
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     {% for page in site.pages %}
+    {% unless page.url == '/free-trial.html' or page.url == '/android' or page.url == '/iphone' or page.url == '/redirects.json' %}
     <url>
         <loc>{{site.url}}{{page.url}}</loc>
         <lastmod>{{site.time | date: '%Y-%m-%d' }}</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
+    {% endunless %}
     {% endfor %}
 
     {% for post in site.posts %}
