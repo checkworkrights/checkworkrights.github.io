@@ -996,6 +996,9 @@ blockquote{
 #trysteps .smallimg{
     max-width: 200px;
 }
+#trysteps .stepone{
+        margin-top: -38rem;
+}
 #trysteps .stepthree img{
     max-width: 100%;
     padding-bottom: 20px;
@@ -1009,6 +1012,7 @@ blockquote{
 #trysteps .bluebg{
         background-color:rgba(47, 64, 82,0.95);
         color:#222;
+        border-top: 30rem solid white;
 }
 #trysteps .typewriter{
     display: inline-block;
