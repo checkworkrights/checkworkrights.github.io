@@ -4,6 +4,7 @@
 # TEAM
 
     Guy Aldous -- Creative and Marketing Manager
+    https://lysdexia.digital/
 
 # THANKS
 
@@ -11,5 +12,4 @@
 
 # TECHNOLOGY COLOPHON
 
-    CSS3, HTML5
-    jQuery, Modernizr, Normalize.css
+    CSS3, HTML5, Jekyll, jQuery

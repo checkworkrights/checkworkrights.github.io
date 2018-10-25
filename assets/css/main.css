@@ -993,3 +993,62 @@ blockquote{
     font-style: italic;
     margin-left: 20px;
 }
+#trysteps .smallimg{
+    max-width: 200px;
+}
+#trysteps .stepthree img{
+    max-width: 100%;
+    padding-bottom: 20px;
+}
+#trysteps .tile{
+    background: #f5fbf9 !important;
+}
+#trysteps h3{
+    color:var(--green);
+}
+#trysteps .bluebg{
+        background-color:rgba(47, 64, 82,0.95);
+        color:#222;
+}
+#trysteps .typewriter{
+    display: inline-block;
+    border: 1px solid gray;
+    border-radius: 3px;
+    background:white;
+    width:350px;
+}
+#trysteps .typewriter a {
+width:20%;
+display: inline;
+    float: right;
+    padding: 5px 0px;
+    background:var(--green);
+    color:white;
+}
+#trysteps .typewriter p {
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .15em solid var(--red); /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+
+    text-align: left;
+display: inline;
+    float: left;
+margin: 5px 0px 5px 20px;
+  animation: 
+    typing 4.5s steps(40, end) infinite,
+    blink-caret .75s step-end infinite;
+}
+
+/* The typing effect */
+@keyframes typing {
+  from { width: 0 }
+  75% { width: 60% }
+  to { width: 60% }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: var(--red); }
+}
